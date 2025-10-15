@@ -1,15 +1,22 @@
-DeepSeek
-梁文锋
+A股
+上证
+深证
++涨跌
+!预测
+
+人工智能
+AI  
+ChatGPT
+openai
++技术
+!广告
+!培训
 
 谷歌
 google
 gemini
 
-chatgpt
-openai
-
 金价
-
 黄金
 +价格
 
@@ -19,7 +26,3 @@ openai
 
 美元
 +指数
-
-特朗普
-
-伊朗
