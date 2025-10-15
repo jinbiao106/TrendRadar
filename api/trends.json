@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T16:28:49.390638+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2025-10-15T17:23:06.259350+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
@@ -55,17 +55,6 @@
           "time_info": "[07时22分 ~ 14时37分]"
         },
         {
-          "title": "美股黄金股盘前普涨，哈莫尼黄金涨近5%，金田涨4.5%。",
-          "url": "https://wallstreetcn.com/livenews/2988064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
           "title": "分析师：美联储并未在意贸易局势升级 美股未来或迎来顺风",
           "url": "https://flash.jin10.com/detail/20251015031003749800",
           "source": "金十数据",
@@ -99,6 +88,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时23分]"
+        },
+        {
+          "title": "美股黄金股盘前普涨，哈莫尼黄金涨近5%，金田涨4.5%。",
+          "url": "https://wallstreetcn.com/livenews/2988064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 17时23分]"
         },
         {
           "title": "航空业ETF收涨将近3.2%，和银行ETF领跑美股行业ETF，半导体ETF则跌超1.8%",
@@ -180,9 +181,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
+        },
+        {
+          "title": "台积电美股盘前涨超4.5%，开盘势创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/2988089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 英伟达跌超4%",
@@ -266,7 +278,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         }
