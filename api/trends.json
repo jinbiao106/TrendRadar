@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T16:29:37.798291+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2025-10-16T17:25:00.587652+08:00",
+  "total_titles_processed": 1625,
   "failed_sources": [],
   "trends": [
     {
@@ -144,7 +144,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -177,17 +177,6 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
-          "url": "https://wallstreetcn.com/articles/3757182",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时30分]"
-        },
-        {
           "title": "硬刚sora2谷歌发布Veo3.1",
           "url": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E5%88%9Asora2%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Veo3.1",
           "source": "bilibili 热搜",
@@ -198,8 +187,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时21分 ~ 17时25分]"
+        },
+        {
+          "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
+          "url": "https://wallstreetcn.com/articles/3757182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时21分 ~ 16时29分]"
+          "time_info": "[00时23分 ~ 02时30分]"
         },
         {
           "title": "谷歌Veo 3.1迎来重大更新硬刚Sora 2",
@@ -321,7 +321,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         }
