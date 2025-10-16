@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T14:31:13.890639+08:00",
-  "total_titles_processed": 1307,
+  "generated_at": "2025-10-16T15:20:57.142756+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
@@ -155,7 +155,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         }
@@ -182,11 +182,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 14时31分]"
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 15时20分]"
         },
         {
           "title": "谷歌Veo 3.1迎来重大更新硬刚Sora 2",
