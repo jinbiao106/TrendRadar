@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T15:20:57.142756+08:00",
-  "total_titles_processed": 1412,
+  "generated_at": "2025-10-16T16:29:37.798291+08:00",
+  "total_titles_processed": 1524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
@@ -138,6 +138,17 @@
           "time_info": "[05时19分 ~ 06时20分]"
         },
         {
+          "title": "美股盘前，AI芯片股普涨，台积电(TSM.N)涨2.4%，Q3净利润创历史新高；博通(AVGO.O)涨1.46%，英伟达(NVDA.O)、AMD(AMD.O)涨超1%。蔚来汽车(NIO.N)盘前跌6.6%。",
+          "url": "https://flash.jin10.com/detail/20251016160116214800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "美股收盘 热门中概股多数收涨",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98+%E7%83%AD%E9%97%A8%E4%B8%AD%E6%A6%82%E8%82%A1%E5%A4%9A%E6%95%B0%E6%94%B6%E6%B6%A8",
           "source": "百度热搜",
@@ -183,11 +194,12 @@
           "ranks": [
             7,
             9,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 15时20分]"
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 16时29分]"
         },
         {
           "title": "谷歌Veo 3.1迎来重大更新硬刚Sora 2",
@@ -288,6 +300,34 @@
       ]
     },
     {
+      "keyword_group": "金价 黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十整理：现货黄金连续4个交易日创新高，各大投行黄金价格预期一览",
+          "url": "https://flash.jin10.com/detail/20251016114935655800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "澳新银行：黄金本轮涨势更多受结构性因素支撑 高位价格可能会维持更久",
+          "url": "https://flash.jin10.com/detail/20251016160020734800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能 AI ChatGPT openai",
       "match_count": 1,
       "titles": [
@@ -301,23 +341,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十整理：现货黄金连续4个交易日创新高，各大投行黄金价格预期一览",
-          "url": "https://flash.jin10.com/detail/20251016114935655800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
         }
       ]
     },
