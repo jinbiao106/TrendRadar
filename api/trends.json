@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T16:27:36.637369+08:00",
-  "total_titles_processed": 1518,
+  "generated_at": "2025-10-17T17:21:58.540557+08:00",
+  "total_titles_processed": 1603,
   "failed_sources": [],
   "trends": [
     {
@@ -118,7 +118,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -129,7 +129,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -224,7 +224,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -235,7 +235,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -268,7 +268,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -308,8 +308,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时23分 ~ 16时27分]"
+          "appearance_count": 10,
+          "time_info": "[09时23分 ~ 17时21分]"
         },
         {
           "title": "美债、黄金大涨！美国信贷“蟑螂”成群出没 区域银行危机再现？",
@@ -319,11 +319,12 @@
             9,
             6,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时02分 ~ 16时27分]"
+          "appearance_count": 8,
+          "time_info": "[11时02分 ~ 17时21分]"
         },
         {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
