@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T22:20:05.871418+08:00",
-  "total_titles_processed": 2066,
+  "generated_at": "2025-10-17T23:20:26.147739+08:00",
+  "total_titles_processed": 2155,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,29 @@
           "time_info": "[02时30分 ~ 11时03分]"
         },
         {
+          "title": "贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时20分]"
+        },
+        {
+          "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2173194",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时29分 ~ 23时20分]"
+        },
+        {
           "title": "台积电强劲业绩带动AI乐观情绪，美股三大股指集体上涨，科技股盘前多数走高，金银维持强势，加密货币震荡",
           "url": "https://wallstreetcn.com/articles/3757299",
           "source": "华尔街见闻",
@@ -44,28 +67,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时35分 ~ 01时20分]"
-        },
-        {
-          "title": "贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司",
-          "url": "https://wallstreetcn.com/articles/3757385",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
-        },
-        {
-          "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2173194",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 22时20分]"
         },
         {
           "title": "银行坏账担忧引爆美股抛售，美股三大指数跌，黄金升破4300美元，VIX涨超20%",
@@ -90,17 +91,6 @@
           "time_info": "04时22分"
         },
         {
-          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF涨约0.9%，半导体ETF跌幅居前。",
-          "url": "https://wallstreetcn.com/livenews/2989788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
           "title": "金十图示：2025年10月16日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251017040514550800",
           "source": "金十数据",
@@ -121,17 +111,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
-        },
-        {
-          "title": "美股三大股指开盘涨跌不一，道指涨0.05%，标普500指数跌0.18%，纳指跌0.38%。银行股小幅走高，阿莱恩斯西部银行涨近2%，Zions涨近3%。礼来跌超3%，诺和诺德跌超4%，特朗普称“司美格鲁肽药价将大跌”。",
-          "url": "https://wallstreetcn.com/livenews/2989785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
         },
         {
           "title": "美股收盘：三大股指集体收跌 金龙指数跌近1%",
@@ -214,6 +193,18 @@
           "time_info": "[21时29分 ~ 22时20分]"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF涨约0.9%，半导体ETF跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/2989788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时20分]"
+        },
+        {
           "title": "美股地区银行指数收跌6.3%，创4月份以来最差单日表现。 Zions收跌13%，Western Alliance跌11%。",
           "url": "https://wallstreetcn.com/livenews/2989185",
           "source": "华尔街见闻-快讯",
@@ -224,6 +215,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时27分]"
+        },
+        {
+          "title": "美股三大股指开盘涨跌不一，道指涨0.05%，标普500指数跌0.18%，纳指跌0.38%。银行股小幅走高，阿莱恩斯西部银行涨近2%，Zions涨近3%。礼来跌超3%，诺和诺德跌超4%，特朗普称“司美格鲁肽药价将大跌”。",
+          "url": "https://wallstreetcn.com/livenews/2989785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时20分]"
         },
         {
           "title": "美股三大股指齐收跌 金龙指数跌近1%",
@@ -248,6 +251,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时15分]"
+        },
+        {
+          "title": "美股股指短线拉升，道指涨0.5%，标普500指数涨0.23%，纳指涨0.18%。",
+          "url": "https://flash.jin10.com/detail/20251017215650480800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时20分]"
         },
         {
           "title": "美股地区银行指数跌幅扩大至4.7%，Zions信用危机触发板块层面的抛售，投资者对银行业不良贷款产生恐慌情绪",
@@ -309,17 +324,6 @@
           "time_info": "16时27分"
         },
         {
-          "title": "美股股指短线拉升，道指涨0.5%，标普500指数涨0.23%，纳指涨0.18%。",
-          "url": "https://flash.jin10.com/detail/20251017215650480800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
           "title": "诺和诺德(NVO.N)、礼来(LLY.N)美股盘前跌约3.7%，此前特朗普称减肥药物价格将下调。",
           "url": "https://flash.jin10.com/detail/20251017160213841800",
           "source": "金十数据",
@@ -370,7 +374,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -410,8 +414,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时23分 ~ 22时20分]"
+          "appearance_count": 17,
+          "time_info": "[09时23分 ~ 23时20分]"
         },
         {
           "title": "美债、黄金大涨！美国信贷“蟑螂”成群出没 区域银行危机再现？",
@@ -606,7 +610,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英国竞争与市场管理局批准解除对谷歌的限制措施。",
@@ -618,6 +622,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
+        },
+        {
+          "title": "小马智行旗下卢森堡部门与斯泰兰蒂斯集团Stellantis宣布，双方将在欧洲共同测试无人驾驶出租车。 未来数月，两家公司将在卢森堡共同测试无人驾驶出租车，并将在2026年拓展至欧洲的其他地区。 本周稍早，谷歌母公司Alphabet旗下无人驾驶业务Waymo宣布，计划在英国伦敦启动自动驾驶出租车业务。",
+          "url": "https://wallstreetcn.com/livenews/2989800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         }
       ]
     }
