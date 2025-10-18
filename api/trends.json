@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T21:24:54.716592+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2025-10-18T22:17:29.989740+08:00",
+  "total_titles_processed": 1532,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时18分 ~ 21时24分]"
+          "appearance_count": 20,
+          "time_info": "[07时18分 ~ 22时17分]"
         },
         {
           "title": "贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司",
@@ -70,8 +70,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 21时24分]"
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 22时17分]"
+        },
+        {
+          "title": "“恐慌指数”飙升：美股平静期宣告结束？",
+          "url": "https://www.cls.cn/detail/2173450",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 22时17分]"
         },
         {
           "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
@@ -83,17 +94,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
-        },
-        {
-          "title": "“恐慌指数”飙升：美股平静期宣告结束？",
-          "url": "https://www.cls.cn/detail/2173450",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 21时24分]"
         },
         {
           "title": "大豆基金收涨0.8%，和纳指ETF领涨美股大类资产类ETF，黄金ETF跌约1.9%",
@@ -214,8 +214,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时20分 ~ 21时24分]"
+          "appearance_count": 19,
+          "time_info": "[09时20分 ~ 22时17分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -265,9 +265,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 22时17分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.4%，本周和谷歌、特斯拉、台积电涨超5%",
@@ -305,11 +305,12 @@
           "ranks": [
             1,
             2,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时20分 ~ 21时24分]"
+          "appearance_count": 7,
+          "time_info": "[17时20分 ~ 22时17分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
@@ -320,8 +321,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时37分 ~ 21时24分]"
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 22时17分]"
         },
         {
           "title": "黄金价格“抛物线式”上涨",
