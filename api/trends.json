@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T13:19:59.702211+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2025-10-18T14:28:56.807049+08:00",
+  "total_titles_processed": 1088,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,21 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时18分 ~ 14时28分]"
+        },
+        {
+          "title": "美元大逻辑的关键验证：下一次美股大跌",
+          "url": "https://wallstreetcn.com/articles/3757381",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[07时18分 ~ 13时19分]"
+          "time_info": "[09时20分 ~ 14时28分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -47,19 +60,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时29分 ~ 13时19分]"
-        },
-        {
-          "title": "美元大逻辑的关键验证：下一次美股大跌",
-          "url": "https://wallstreetcn.com/articles/3757381",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时20分 ~ 13时19分]"
         },
         {
           "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
@@ -203,8 +203,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时20分 ~ 13时19分]"
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 14时28分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美三大股指齐反弹，金银跳水，美债下挫",
