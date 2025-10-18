@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T22:17:29.989740+08:00",
-  "total_titles_processed": 1532,
+  "generated_at": "2025-10-18T23:19:18.457435+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时18分 ~ 22时17分]"
+          "appearance_count": 22,
+          "time_info": "[07时18分 ~ 23时19分]"
         },
         {
           "title": "贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司",
@@ -70,8 +70,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 22时17分]"
+          "appearance_count": 8,
+          "time_info": "[18时20分 ~ 23时19分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -81,8 +81,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 22时17分]"
+          "appearance_count": 8,
+          "time_info": "[18时20分 ~ 23时19分]"
         },
         {
           "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
@@ -211,11 +211,12 @@
           "url": "https://wallstreetcn.com/articles/3757385",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时20分 ~ 22时17分]"
+          "appearance_count": 21,
+          "time_info": "[09时20分 ~ 23时19分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -318,11 +319,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 22时17分]"
+          "appearance_count": 5,
+          "time_info": "[20时37分 ~ 23时19分]"
         },
         {
           "title": "黄金价格“抛物线式”上涨",
