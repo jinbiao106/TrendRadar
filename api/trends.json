@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T22:17:16.672383+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2025-10-19T23:18:09.064170+08:00",
+  "total_titles_processed": 1321,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,19 @@
           "time_info": "[00时21分 ~ 20时38分]"
         },
         {
+          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
+          "url": "https://wallstreetcn.com/articles/3757446",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时20分 ~ 23时18分]"
+        },
+        {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
           "url": "https://wallstreetcn.com/articles/3757414",
           "source": "华尔街见闻",
@@ -33,18 +46,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时21分 ~ 09时42分]"
-        },
-        {
-          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
-          "url": "https://wallstreetcn.com/articles/3757446",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时20分 ~ 22时17分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
