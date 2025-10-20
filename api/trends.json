@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T19:20:14.587823+08:00",
-  "total_titles_processed": 1515,
+  "generated_at": "2025-10-20T20:41:05.813213+08:00",
+  "total_titles_processed": 1634,
   "failed_sources": [],
   "trends": [
     {
@@ -101,25 +101,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国银行：将谷歌(GOOG.O)目标股价从252美元上调至280美元。",
-          "url": "https://flash.jin10.com/detail/20251020183823789800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美银Hartnett：当美国负债38万亿美元时，该买入美债、利差处于 20 年低点企业债、40倍CAPE美股，还是暴涨的黄金？这很棘手",
@@ -131,8 +114,36 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时20分 ~ 19时20分]"
+          "appearance_count": 8,
+          "time_info": "[15时20分 ~ 20时41分]"
+        },
+        {
+          "title": "摩根大通平仓德债与美债利差交易",
+          "url": "https://flash.jin10.com/detail/20251020193826383800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国银行：将谷歌(GOOG.O)目标股价从252美元上调至280美元。",
+          "url": "https://flash.jin10.com/detail/20251020183823789800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         }
       ]
     },
