@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T01:19:58.397002+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2025-10-21T02:30:09.702967+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时30分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股盘中）",
@@ -25,7 +25,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         }
@@ -71,8 +71,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时30分]"
         }
       ]
     }
