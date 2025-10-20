@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T18:24:21.745076+08:00",
-  "total_titles_processed": 1420,
+  "generated_at": "2025-10-20T19:20:14.587823+08:00",
+  "total_titles_processed": 1515,
   "failed_sources": [],
   "trends": [
     {
@@ -49,7 +49,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -60,7 +60,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -101,6 +101,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国银行：将谷歌(GOOG.O)目标股价从252美元上调至280美元。",
+          "url": "https://flash.jin10.com/detail/20251020183823789800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -110,11 +127,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 18时24分]"
+          "appearance_count": 6,
+          "time_info": "[15时20分 ~ 19时20分]"
         }
       ]
     },
