@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T12:26:06.014907+08:00",
-  "total_titles_processed": 875,
+  "generated_at": "2025-10-20T13:21:10.072970+08:00",
+  "total_titles_processed": 935,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 12时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 13时21分]"
         },
         {
           "title": "美股股指期货周一高开，纳指期货涨0.36%。",
@@ -45,8 +45,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 12时26分]"
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 13时21分]"
         }
       ]
     }
