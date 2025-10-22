@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T13:21:03.653200+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2025-10-22T14:36:39.470248+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时30分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时30分 ~ 14时36分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
@@ -229,11 +229,12 @@
           "url": "https://wallstreetcn.com/articles/3757591",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[11时13分 ~ 14时36分]"
         },
         {
           "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
@@ -320,7 +321,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
@@ -367,6 +368,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 05时19分]"
+        },
+        {
+          "title": "英国9月零售物价指数月率录得-0.4%，为2024年9月以来最大降幅。英国9月CPI月率录得0%，为2025年1月以来最小增幅。英镑兑美元GBP/USD短线跳水40点。",
+          "url": "https://flash.jin10.com/detail/20251022140056733800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "恒天然：10月21日全球乳品贸易（GDT）拍卖价格指数上涨21.9%，奶粉各合同期FAS拍卖均价3.881美元/吨。 批发奶粉价格指数下降4.6%，报3,610美元/吨。",
