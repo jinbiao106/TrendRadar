@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T12:23:35.423100+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2025-10-22T13:21:03.653200+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,17 @@
           "time_info": "[00时27分 ~ 06时23分]"
         },
         {
+          "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
+          "url": "https://wallstreetcn.com/articles/3757563",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时30分 ~ 13时21分]"
+        },
+        {
           "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
           "url": "https://www.cls.cn/detail/2176345",
           "source": "财联社热门",
@@ -29,17 +40,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时19分 ~ 12时23分]"
-        },
-        {
-          "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
-          "url": "https://wallstreetcn.com/articles/3757563",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 12时23分]"
         },
         {
           "title": "美股涨跌互现，道指历史新高，黄金跳水，白银重挫，比特币一度受捧",
@@ -225,6 +225,17 @@
           "time_info": "[00时27分 ~ 07时19分]"
         },
         {
+          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
+          "url": "https://wallstreetcn.com/articles/3757591",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 13时21分]"
+        },
+        {
           "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
           "url": "https://www.cls.cn/detail/2176315",
           "source": "财联社热门",
@@ -245,17 +256,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
-        },
-        {
-          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
-          "url": "https://wallstreetcn.com/articles/3757591",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时23分]"
         },
         {
           "title": "标普500指数初步收涨约0.1%，可选消费板块涨1.6%，工业板块涨1%，科技板块持平，电信板块跌0.7%，公用事业板块跌1.1%。 纳斯达克100指数初步大致收平，成分股中，核电概念股Constellation Energy跌3.5%，CSX跌2.2%，谷歌A跌2.2%，Applovin跌2%，博通、美光科技、阿斯麦ADR等跌超1%，亚马逊则涨2.6%，Adobe涨4.3%，露露柠檬涨5.6%，TEAM涨6.3%，华纳兄弟探索公司涨10.9%。 3M初步收涨7.3%，可口可乐和Salesforce涨3.8%，与亚马逊领跑道指成分股，卡特彼勒、VZ、摩根大通则至少跌约1%。",
