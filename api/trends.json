@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-10-23T13:21:37.949100+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2025-10-23T14:30:14.095477+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 18,
       "titles": [
+        {
+          "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
+          "url": "https://www.cls.cn/detail/2177654",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时18分 ~ 14时30分]"
+        },
         {
           "title": "“爆炸式”上涨！美股散户大军再次“逼空”Beyond Meat，4天爆拉1300%！",
           "url": "https://wallstreetcn.com/articles/3757661",
@@ -19,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 13时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 14时30分]"
         },
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -34,18 +46,6 @@
           "time_info": "[00时27分 ~ 06时16分]"
         },
         {
-          "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
-          "url": "https://www.cls.cn/detail/2177654",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时18分 ~ 13时21分]"
-        },
-        {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
           "url": "https://wallstreetcn.com/articles/3757644",
           "source": "华尔街见闻",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 13时21分]"
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 14时30分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -231,8 +231,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 13时21分]"
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 14时30分]"
+        },
+        {
+          "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
+          "url": "https://www.cls.cn/detail/2177879",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 14时30分]"
         },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
@@ -244,18 +256,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 01时20分]"
-        },
-        {
-          "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
-          "url": "https://www.cls.cn/detail/2177879",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时21分]"
         },
         {
           "title": "谷歌A上涨2.4%，谷歌公司Quantum在《自然》披露与Willow芯片相关的量子计算突破性进展。",
@@ -394,8 +394,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时05分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时05分 ~ 14时30分]"
         },
         {
           "title": "黄金价格大跳水 金价到顶了吗",
