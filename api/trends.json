@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T17:23:59.200267+08:00",
-  "total_titles_processed": 1618,
+  "generated_at": "2025-10-23T18:23:48.506432+08:00",
+  "total_titles_processed": 1709,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时26分 ~ 17时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时26分 ~ 18时23分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时27分 ~ 17时23分]"
+          "appearance_count": 22,
+          "time_info": "[00时27分 ~ 18时23分]"
         },
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -250,11 +250,12 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时26分 ~ 17时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时26分 ~ 18时23分]"
         },
         {
           "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
@@ -323,7 +324,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
