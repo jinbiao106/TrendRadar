@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T02:29:33.894913+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2025-10-24T03:17:00.953248+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
@@ -49,8 +49,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "美股涨幅扩大，纳斯达克中国金龙指数涨超2%，纳指上涨1%，标普500指数上涨0.6%，道指涨0.3%。",
@@ -59,7 +59,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
         },
@@ -70,7 +70,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
         }
