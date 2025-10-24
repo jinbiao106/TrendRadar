@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T01:20:40.853592+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2025-10-25T02:29:37.139126+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时29分]"
         },
         {
           "title": "美股盘前直线拉升 市场充分定价美联储10月、12月降息 | 今夜看点",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时29分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股盘中）",
@@ -38,7 +38,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -49,7 +49,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         }
