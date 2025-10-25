@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T12:25:16.559763+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2025-10-25T13:21:49.295482+08:00",
+  "total_titles_processed": 888,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 12时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 13时21分]"
         },
         {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
@@ -44,19 +44,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 12时25分]"
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 13时21分]"
         },
         {
           "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
           "url": "https://wallstreetcn.com/articles/3757811",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时24分 ~ 12时25分]"
+          "appearance_count": 6,
+          "time_info": "[09时24分 ~ 13时21分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股收盘）",
