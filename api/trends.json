@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T09:24:51.234058+08:00",
-  "total_titles_processed": 680,
+  "generated_at": "2025-10-25T11:04:05.473896+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             5,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 09时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 11时04分]"
         },
         {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
@@ -33,6 +34,19 @@
           "time_info": "[00时25分 ~ 07时20分]"
         },
         {
+          "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2180462",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时20分 ~ 11时04分]"
+        },
+        {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251025040539216800",
           "source": "金十数据",
@@ -42,6 +56,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时23分 ~ 07时20分]"
+        },
+        {
+          "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
+          "url": "https://wallstreetcn.com/articles/3757811",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 11时04分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）热门中概股行情一览（美股收盘）",
@@ -66,38 +91,16 @@
           "time_info": "[04时23分 ~ 07时20分]"
         },
         {
-          "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2180462",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 09时24分]"
-        },
-        {
-          "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
-          "url": "https://wallstreetcn.com/articles/3757811",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
           "title": "美股收盘：特斯拉市值蒸发超3600亿元",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%B6%853600%E4%BA%BF%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 11时04分]"
         },
         {
           "title": "高盛：对冲基金对AI投资敞口达到近9年来新高 押注亚股和美股将上涨",
@@ -208,11 +211,12 @@
             7,
             14,
             15,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时17分 ~ 09时24分]"
+          "appearance_count": 5,
+          "time_info": "[05时17分 ~ 11时04分]"
         }
       ]
     }
