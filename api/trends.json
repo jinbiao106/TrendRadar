@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T11:10:57.755033+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2025-10-26T12:23:19.150375+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             8,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 11时10分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 12时23分]"
         },
         {
           "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
