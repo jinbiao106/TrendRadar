@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T09:38:40.002355+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2025-10-26T11:10:57.755033+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
@@ -14,26 +14,12 @@
           "ranks": [
             7,
             8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 09时38分]"
-        },
-        {
-          "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1965195615022587967",
-          "source": "知乎",
-          "ranks": [
-            12,
             10,
-            9,
-            13,
-            5
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 09时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 11时10分]"
         },
         {
           "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
@@ -46,6 +32,22 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时22分 ~ 06时17分]"
+        },
+        {
+          "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1965195615022587967",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10,
+            9,
+            13,
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 11时10分]"
         },
         {
           "title": "美股为何一直在上涨",
