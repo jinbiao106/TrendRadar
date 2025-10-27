@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T11:20:57.722125+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2025-10-27T12:30:30.060873+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3757937",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 12时30分]"
         },
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
@@ -55,7 +56,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         }
