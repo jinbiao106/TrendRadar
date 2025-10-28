@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T02:32:47.981478+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2025-10-29T03:17:03.499819+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 03时17分]"
         },
         {
           "title": "英伟达CEO黄仁勋：宣布推出美国首个用于6G的AI原生无线堆栈，包括推进下一代无线技术的新应用。",
@@ -26,7 +26,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -89,7 +89,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -99,8 +99,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 03时17分]"
         },
         {
           "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
@@ -110,8 +110,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 03时17分]"
+        },
+        {
+          "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
+          "url": "https://wallstreetcn.com/articles/3758056",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 03时17分]"
         },
         {
           "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览（美股盘中）",
