@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T17:22:11.349554+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2025-10-30T18:23:49.990048+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：标普道指回落、纳指独领风骚 英伟达市值站稳5万亿",
@@ -89,6 +89,28 @@
           "time_info": "16时26分"
         },
         {
+          "title": "美股期指震荡走低，日元跌至8个月最低，现货黄金再度涨破4000美元，比特币跌近2%",
+          "url": "https://wallstreetcn.com/articles/3758264",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "诺和诺德提交收购Metséra公司的提案，竞标价格为每股56.50美元现金，外加每股21.25美元的CVR（或有价值权）。Metséra美股盘前大涨超18%。",
+          "url": "https://wallstreetcn.com/livenews/2996760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "鲍威尔一句话掀翻市场 美股盘中跳水",
           "url": "https://www.toutiao.com/trending/7566623844883431451/",
           "source": "今日头条",
@@ -137,13 +159,24 @@
           "time_info": "[13时20分 ~ 14时32分]"
         },
         {
+          "title": "Metséra美股盘前大涨18.7%，诺和诺德提出以每股56.50美元收购Metséra。",
+          "url": "https://flash.jin10.com/detail/20251030175441997800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "好未来第二财季净营收8.614亿美元，预估8.305亿美元。 第二财季调整后每ADS收益 0.24美元，预估0.16美元。 好未来美股盘前涨超4%。",
           "url": "https://wallstreetcn.com/livenews/2996704",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -365,8 +398,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时19分 ~ 17时22分]"
+          "appearance_count": 13,
+          "time_info": "[07时19分 ~ 18时23分]"
         },
         {
           "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
@@ -378,8 +411,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时30分 ~ 17时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时30分 ~ 18时23分]"
         },
         {
           "title": "“债券天王”比尔·格罗斯：美国10年期国债的短期目标收益率为4.25%。 10年期美债已经迎来最好的时光。",
