@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T21:33:36.588220+08:00",
-  "total_titles_processed": 1732,
+  "generated_at": "2025-10-30T22:21:11.186332+08:00",
+  "total_titles_processed": 1828,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "美股收盘：标普道指回落、纳指独领风骚 英伟达市值站稳5万亿",
@@ -32,6 +32,18 @@
           "time_info": "[18时23分 ~ 21时33分]"
         },
         {
+          "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
+          "url": "https://www.cls.cn/detail/2186587",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时33分 ~ 22时21分]"
+        },
+        {
           "title": "奇波雷墨西哥烧烤（CMG）美股盘后跌超8.5%。",
           "url": "https://wallstreetcn.com/livenews/2996221",
           "source": "华尔街见闻-快讯",
@@ -52,6 +64,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时21分 ~ 17时22分]"
+        },
+        {
+          "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
+          "url": "https://wallstreetcn.com/articles/3758264",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 22时21分]"
         },
         {
           "title": "利率决议、业绩报告在即，美股指数集体上涨，英伟达总市值突破5万亿美元，黄金突破4000美元关口",
@@ -76,6 +99,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时20分 ~ 16时26分]"
+        },
+        {
+          "title": "美股数字货币概念股下跌，嘉楠科技跌超7%，Coinbase Global跌近4%，MARA Holdings跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/2996997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "微软(MSFT.O)美股盘前下跌3.1%，此前公司警告称成本将上升。",
@@ -120,17 +154,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
-        },
-        {
-          "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
-          "url": "https://www.cls.cn/detail/2186587",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
         },
         {
           "title": "福克斯公司美股盘前上涨5%，第一季度利润和收入超出预期。",
@@ -190,6 +213,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 14时32分]"
+        },
+        {
+          "title": "美股三大股指集体低开 Meta跌逾11%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+Meta%E8%B7%8C%E9%80%BE11%25",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 22时21分]"
         },
         {
           "title": "Metséra美股盘前大涨18.7%，诺和诺德提出以每股56.50美元收购Metséra。",
@@ -253,9 +287,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
+        },
+        {
+          "title": "美股跌幅扩大，纳指跌超1%，标普500指数跌0.8%。",
+          "url": "https://wallstreetcn.com/livenews/2996983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "Roblox三季度营收14亿美元。 Roblox预计四季度营收13.5亿美元-14亿美元。 Roblox预计全财年预订额为65.7亿美元至66.2亿美，此前预计58.7亿美元-59.7亿美元。 Roblox美股盘前涨逾10%。",
@@ -283,18 +328,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
           "url": "https://www.cls.cn/detail/2186836",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时33分 ~ 22时21分]"
         },
         {
           "title": "AI热潮助推云业务增长 谷歌营收飙升",
@@ -438,6 +484,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "美股盘初：纳指跌0.8%，谷歌A涨约5%，Meta跌约12%",
+          "url": "https://wallstreetcn.com/livenews/2996980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "谷歌母公司Alphabet首席财务官（CFO）Anat Ashkenazi：谷歌云增速得到企业AI产品的支持。",
           "url": "https://wallstreetcn.com/livenews/2996247",
           "source": "华尔街见闻-快讯",
@@ -475,8 +532,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时19分 ~ 21时33分]"
+          "appearance_count": 19,
+          "time_info": "[07时19分 ~ 22时21分]"
         },
         {
           "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
@@ -488,8 +545,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时30分 ~ 21时33分]"
+          "appearance_count": 17,
+          "time_info": "[09时30分 ~ 22时21分]"
         },
         {
           "title": "“债券天王”比尔·格罗斯：美国10年期国债的短期目标收益率为4.25%。 10年期美债已经迎来最好的时光。",
