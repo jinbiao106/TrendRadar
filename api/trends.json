@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T07:20:13.437477+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2025-10-30T09:30:19.007964+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
@@ -51,7 +51,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -122,7 +122,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -133,7 +133,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -144,7 +144,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -163,18 +163,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股收盘：标普道指回落、纳指独领风骚 英伟达市值站稳5万亿",
           "url": "https://www.cls.cn/detail/2185493",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
+          "appearance_count": 3,
+          "time_info": "[07时19分 ~ 09时30分]"
         },
         {
           "title": "奇波雷墨西哥烧烤（CMG）美股盘后跌超8.5%。",
@@ -200,6 +201,17 @@
           "time_info": "[05时23分 ~ 06时21分]"
         },
         {
+          "title": "鲍威尔一句话掀翻市场 美股盘中跳水",
+          "url": "https://www.toutiao.com/trending/7566623844883431451/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        },
+        {
           "title": "在美上市韩国ETF美股盘后涨0.8%。 美国总统特朗普称，韩国同意3500亿美元的协议。 韩国将获得更低的关税。",
           "url": "https://wallstreetcn.com/livenews/2996231",
           "source": "华尔街见闻-快讯",
@@ -218,7 +230,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -237,18 +249,30 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "鲍威尔意外鹰派，美股盘中转跌，英伟达支撑纳指最终收涨，美债黄金比特币跌，美元拉升",
           "url": "https://wallstreetcn.com/articles/3758166",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
+          "appearance_count": 3,
+          "time_info": "[07时19分 ~ 09时30分]"
+        },
+        {
+          "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
+          "url": "https://wallstreetcn.com/articles/3758225",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时30分"
         },
         {
           "title": "“债券天王”比尔·格罗斯：美国10年期国债的短期目标收益率为4.25%。 10年期美债已经迎来最好的时光。",
@@ -272,6 +296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "渣打：美元和美债收益率仍有很大的上行调整空间",
+          "url": "https://wallstreetcn.com/livenews/2996329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时30分"
         }
       ]
     },
