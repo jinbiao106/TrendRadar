@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T01:19:43.331514+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2025-11-01T02:29:28.190660+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时29分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时29分]"
         },
         {
           "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
@@ -47,7 +47,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         }
@@ -75,7 +75,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         }
@@ -93,8 +93,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时29分]"
         }
       ]
     },
