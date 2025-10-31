@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T13:21:17.336221+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2025-10-31T14:30:47.513094+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时19分 ~ 13时21分]"
+          "appearance_count": 9,
+          "time_info": "[07时19分 ~ 14时30分]"
         },
         {
           "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
