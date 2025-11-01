@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T20:37:59.465777+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2025-11-01T21:24:23.212993+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时19分 ~ 20时37分]"
+          "appearance_count": 17,
+          "time_info": "[07时19分 ~ 21时24分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -43,8 +43,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时19分 ~ 20时37分]"
+          "appearance_count": 17,
+          "time_info": "[07时19分 ~ 21时24分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -134,9 +134,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时24分]"
         },
         {
           "title": "可选消费ETF收涨超2.6%，领跑美股行业ETF，标普可选消费板块收涨约4.1%",
@@ -239,11 +239,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 20时37分]"
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 21时24分]"
         },
         {
           "title": "两年期美债收益率在美联储降息当周涨约12个基点，10年期美债收益率10月份跌约6个基点",
