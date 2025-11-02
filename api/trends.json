@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T07:19:26.730743+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2025-11-02T09:39:58.919542+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 07时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 09时39分]"
         },
         {
           "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
@@ -40,11 +40,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 07时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 09时39分]"
         }
       ]
     },
@@ -61,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 07时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 09时39分]"
         }
       ]
     }
