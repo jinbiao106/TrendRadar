@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T15:21:12.344852+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2025-11-03T16:29:03.510819+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
@@ -59,6 +59,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "北美地区冬令时 美股延至22:30开盘",
+          "url": "https://flash.jin10.com/detail/20251103160624228800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "土耳其中央银行以传统方式（多重价格招标）启动3吨黄金的1周期“黄金换里拉”卖方掉期拍卖。",
+          "url": "https://flash.jin10.com/detail/20251103162225875800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     },
