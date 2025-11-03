@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T13:23:04.915208+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2025-11-03T14:32:10.482232+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
           "ranks": [
             11,
             10,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 14时32分]"
         },
         {
           "title": "美股三大股指期货周一开盘走高，道指期货0.11涨%、标普500指数期货涨0.15%，纳指期货涨0.15%。",
