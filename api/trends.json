@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T15:22:38.629729+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2025-11-04T16:28:21.592035+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时18分 ~ 15时22分]"
+          "appearance_count": 10,
+          "time_info": "[07时18分 ~ 16时28分]"
         },
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时30分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时30分 ~ 16时28分]"
         },
         {
           "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
@@ -259,11 +259,12 @@
           "ranks": [
             12,
             8,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时30分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时30分 ~ 16时28分]"
         },
         {
           "title": "美元指数DXY突破100大关，为8月1日来首次。",
@@ -386,7 +387,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         }
@@ -436,8 +437,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 15时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 16时28分]"
         }
       ]
     }
