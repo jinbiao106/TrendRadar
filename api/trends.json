@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T11:11:26.004868+08:00",
-  "total_titles_processed": 959,
+  "generated_at": "2025-11-04T12:23:30.972191+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时18分 ~ 11时11分]"
+          "appearance_count": 6,
+          "time_info": "[07时18分 ~ 12时23分]"
         },
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -27,8 +27,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 11时11分]"
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 12时23分]"
+        },
+        {
+          "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2189932",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 12时23分]"
         },
         {
           "title": "算力协议力撑科技股，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -40,18 +52,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时18分 ~ 07时19分]"
-        },
-        {
-          "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2189932",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 11时11分]"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨4%，特斯拉和英伟达涨超2%，Meta则跌超2%",
@@ -219,6 +219,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
+          "url": "https://www.cls.cn/detail/2190136",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 12时23分]"
+        },
+        {
           "title": "美元指数DXY突破100大关，为8月1日来首次。",
           "url": "https://flash.jin10.com/detail/20251104091430231800",
           "source": "金十数据",
@@ -228,18 +240,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
-        },
-        {
-          "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
-          "url": "https://www.cls.cn/detail/2190136",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 11时11分]"
         },
         {
           "title": "美元指数突破100大关，为8月1日来首次。",
@@ -270,7 +270,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时11分"
         }
@@ -390,8 +390,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 11时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 12时23分]"
         }
       ]
     }
