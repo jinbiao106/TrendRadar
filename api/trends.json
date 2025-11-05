@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T13:20:44.915559+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2025-11-05T14:32:28.230515+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 14时32分]"
         },
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -54,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时29分 ~ 13时20分]"
+          "appearance_count": 6,
+          "time_info": "[09时29分 ~ 14时32分]"
         },
         {
           "title": "全球风险资产遭遇黑色星期二，美股全线大跌，黄金下破 3930 美元，比特币跌破 10.3 万美元，发生了什么？",
@@ -63,11 +63,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 13时20分]"
+          "appearance_count": 5,
+          "time_info": "[11时13分 ~ 14时32分]"
         },
         {
           "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
@@ -79,8 +80,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 13时20分]"
+          "appearance_count": 5,
+          "time_info": "[11时13分 ~ 14时32分]"
         },
         {
           "title": "金十图示：2025年11月04日（周二）美股热门股票行情一览（美股收盘）",
@@ -377,8 +378,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时29分 ~ 13时20分]"
+          "appearance_count": 6,
+          "time_info": "[09时29分 ~ 14时32分]"
         },
         {
           "title": "据网络状况监测网站DownDetector：用户报告显示，截至美东时间上午11:51（北京时间00:51），美国有1650名用户遭遇谷歌服务中断。",
