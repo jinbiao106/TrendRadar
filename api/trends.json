@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T12:27:22.004098+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2025-11-06T13:21:38.676737+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 12时27分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 13时21分]"
         },
         {
           "title": "美股泡沫有多大？瑞银给出七个观测指标",
@@ -50,22 +50,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 12时27分]"
-        },
-        {
-          "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 13时21分]"
         },
         {
           "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
@@ -77,8 +67,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 12时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 13时21分]"
+        },
+        {
+          "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "特朗普上任一年美股跑输全球大盘",
@@ -386,8 +387,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 12时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 13时21分]"
         },
         {
           "title": "10年期美债收益率涨7个基点，美国ADP小非农就业报告和ISM非制造业数据提供支撑",
