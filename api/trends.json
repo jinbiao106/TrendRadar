@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T09:30:03.844608+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2025-11-07T11:13:18.109639+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时24分 ~ 09时30分]"
+          "appearance_count": 4,
+          "time_info": "[07时24分 ~ 11时13分]"
         },
         {
           "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
@@ -43,19 +43,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时19分 ~ 09时30分]"
+          "appearance_count": 5,
+          "time_info": "[06时19分 ~ 11时13分]"
         },
         {
           "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
           "url": "https://wallstreetcn.com/articles/3758813",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 11时13分]"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘后涨1.2%。",
@@ -90,6 +91,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "美国10月裁员人数同比大增175%，芝加哥联储数据显示10月失业率创四年新高，就业市场已现危机信号；美联储官员继续保持谨慎，古尔斯比、哈马克接连反对降息……当前黄金多头持续占优，美股纳指呈强烈卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251107103507218800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
         },
         {
           "title": "半导体ETF收跌超2.3%，领跌美股行业ETF",
@@ -218,8 +230,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 11时13分]"
         },
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币黄金齐跌",
@@ -270,7 +282,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
@@ -281,8 +293,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时19分 ~ 09时30分]"
+          "appearance_count": 5,
+          "time_info": "[06时19分 ~ 11时13分]"
         },
         {
           "title": "Google LLC.（谷歌公司）请求美国加州北区法院法官判定，其电池节能功能并没有违反Headwater Research LLC.的专利。 该公司申诉称，Battery Savers和Doze Mode等功能并没有侵犯美国专利法 Nos. 8,589,541和9,215,613。",
@@ -309,6 +321,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时30分 ~ 04时23分]"
+        },
+        {
+          "title": "如何评价 gemini-3-pro-preview-11-2025？",
+          "url": "https://www.zhihu.com/question/1969709439335530787",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
         },
         {
           "title": "谷歌：Deep Search将在未来几周内于新版谷歌财经中推出，谷歌AI Pro和AI Ultra订阅用户将享有更高的使用上限。",
