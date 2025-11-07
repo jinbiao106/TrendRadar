@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T12:24:37.616713+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2025-11-07T13:20:53.061476+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 12时24分]"
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 13时20分]"
         },
         {
           "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
@@ -43,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时19分 ~ 12时24分]"
+          "appearance_count": 7,
+          "time_info": "[06时19分 ~ 13时20分]"
         },
         {
           "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
@@ -55,8 +55,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 13时20分]"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘后涨1.2%。",
@@ -110,7 +110,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         },
@@ -241,8 +241,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 13时20分]"
         },
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币黄金齐跌",
@@ -293,7 +293,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
@@ -304,8 +304,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时19分 ~ 12时24分]"
+          "appearance_count": 7,
+          "time_info": "[06时19分 ~ 13时20分]"
         },
         {
           "title": "Google LLC.（谷歌公司）请求美国加州北区法院法官判定，其电池节能功能并没有违反Headwater Research LLC.的专利。 该公司申诉称，Battery Savers和Doze Mode等功能并没有侵犯美国专利法 Nos. 8,589,541和9,215,613。",
@@ -319,6 +319,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时17分 ~ 05时21分]"
+        },
+        {
+          "title": "市场消息：谷歌将在澳大利亚位于印度洋的一个小前哨基地建设新的人工智能数据中心。",
+          "url": "https://flash.jin10.com/detail/20251107130634244800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",
@@ -339,11 +350,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时24分]"
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 13时20分]"
         },
         {
           "title": "谷歌：Deep Search将在未来几周内于新版谷歌财经中推出，谷歌AI Pro和AI Ultra订阅用户将享有更高的使用上限。",
