@@ -1,59 +1,22 @@
 {
-  "generated_at": "2025-11-09T23:19:16.487073+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2025-11-10T00:23:17.108004+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
-          "url": "https://www.cls.cn/detail/2194839",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时21分 ~ 16时23分]"
-        },
         {
           "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
           "url": "https://wallstreetcn.com/articles/3758989",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            10,
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时20分 ~ 23时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "下周美国市场也不好过？美债发行潮来袭，流动性“雪上加霜”",
-          "url": "https://wallstreetcn.com/articles/3758965",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 09时39分]"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
         }
       ]
     }
