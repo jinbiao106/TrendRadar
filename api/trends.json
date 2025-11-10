@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T11:21:42.214003+08:00",
-  "total_titles_processed": 762,
+  "generated_at": "2025-11-10T12:28:22.203613+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 11时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 12时28分]"
         },
         {
           "title": "周一亚太盘初，美股三大指数期货高开，纳指期货涨0.7%。 现货黄金报4005美元/盎司，日内涨0.1%。 WTI原油、布伦特原油周一小幅高开。",
@@ -51,9 +51,20 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 12时28分]"
+        },
+        {
+          "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
+          "url": "https://wallstreetcn.com/articles/3759018",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时21分"
+          "time_info": "12时28分"
         }
       ]
     }
