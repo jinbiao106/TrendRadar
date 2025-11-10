@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T15:20:38.770510+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2025-11-10T16:29:23.882620+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 15时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 16时29分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -32,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时21分 ~ 15时20分]"
+          "appearance_count": 6,
+          "time_info": "[11时21分 ~ 16时29分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -42,11 +42,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 15时20分]"
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 16时29分]"
         },
         {
           "title": "周一亚太盘初，美股三大指数期货高开，纳指期货涨0.7%。 现货黄金报4005美元/盎司，日内涨0.1%。 WTI原油、布伦特原油周一小幅高开。",
@@ -69,6 +70,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧美债券收益率同步上涨，市场寄望美国政府结束停摆",
+          "url": "https://flash.jin10.com/detail/20251110160650766800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     }
