@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T20:42:12.140879+08:00",
-  "total_titles_processed": 1594,
+  "generated_at": "2025-11-10T21:32:31.161775+08:00",
+  "total_titles_processed": 1671,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时21分 ~ 20时42分]"
+          "appearance_count": 13,
+          "time_info": "[11时21分 ~ 21时32分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -50,6 +50,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时28分 ~ 16时29分]"
+        },
+        {
+          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
+          "url": "https://wallstreetcn.com/articles/3759034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 21时32分]"
         },
         {
           "title": "周一亚太盘初，美股三大指数期货高开，纳指期货涨0.7%。 现货黄金报4005美元/盎司，日内涨0.1%。 WTI原油、布伦特原油周一小幅高开。",
@@ -72,17 +84,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
-        },
-        {
-          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
-          "url": "https://wallstreetcn.com/articles/3759034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 20时42分]"
         },
         {
           "title": "现货黄金此前触及两周高点，美股黄金矿业股盘前上涨。金罗斯黄金(KGC.N)涨3.5%，哈莫尼黄金(HMY.N)涨5.5%，金田(GFI.N)涨5.8%。",
@@ -160,8 +161,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 20时42分]"
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 21时32分]"
         }
       ]
     },
