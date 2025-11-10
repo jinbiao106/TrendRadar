@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T18:26:34.434182+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2025-11-10T19:18:17.306129+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "ranks": [
             10,
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时21分 ~ 18时26分]"
+          "appearance_count": 10,
+          "time_info": "[11时21分 ~ 19时18分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -78,7 +79,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -89,7 +90,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
