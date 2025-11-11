@@ -1,22 +1,34 @@
 {
-  "generated_at": "2025-11-12T00:26:42.365871+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-12T01:19:00.400880+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌公司将在德国数据中心和办公室投资55亿欧元。",
           "url": "https://wallstreetcn.com/livenews/3002895",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时19分]"
+        },
+        {
+          "title": "谷歌宣布未来四年在德国投资55亿欧元",
+          "url": "https://flash.jin10.com/detail/20251112003809486800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "01时19分"
         },
         {
           "title": "谷歌高管贾斯图斯：数据中心不存在德国政府补贴。",
