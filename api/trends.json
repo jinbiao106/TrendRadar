@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T14:31:22.863853+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2025-11-11T15:21:20.819930+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时19分 ~ 14时31分]"
+          "appearance_count": 8,
+          "time_info": "[07时19分 ~ 15时21分]"
         },
         {
           "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 14时31分]"
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 15时21分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -64,11 +64,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时14分 ~ 14时31分]"
+          "appearance_count": 6,
+          "time_info": "[11时14分 ~ 15时21分]"
         },
         {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
