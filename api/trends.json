@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T13:21:16.416437+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2025-11-11T14:31:22.863853+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 13时21分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 14时31分]"
         },
         {
           "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时19分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[07时19分 ~ 14时31分]"
         },
         {
           "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时29分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时29分 ~ 14时31分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -63,11 +63,12 @@
           "url": "https://www.cls.cn/detail/2196635",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时14分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[11时14分 ~ 14时31分]"
         },
         {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
