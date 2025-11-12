@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T14:31:41.794826+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2025-11-12T15:20:50.524833+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时19分 ~ 14时31分]"
+          "appearance_count": 7,
+          "time_info": "[07时19分 ~ 15时20分]"
         },
         {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股收盘）",
@@ -163,7 +163,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -256,8 +256,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时28分 ~ 14时31分]"
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 15时20分]"
         }
       ]
     }
