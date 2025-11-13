@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T03:17:25.801931+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2025-11-14T04:23:53.805237+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 04时23分]"
         },
         {
           "title": "房利美和房地美股价重挫，报道称美国联邦住房金融局局长曾被调查",
@@ -65,7 +66,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
         }
