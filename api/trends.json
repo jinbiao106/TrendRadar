@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T12:24:47.509240+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2025-11-14T13:20:53.628506+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时20分 ~ 12时24分]"
+          "appearance_count": 8,
+          "time_info": "[06时20分 ~ 13时20分]"
         },
         {
           "title": "美股全线下挫 特斯拉跌超6%",
