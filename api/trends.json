@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T03:18:09.905516+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2025-11-19T04:24:00.217461+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时30分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[02时30分 ~ 04时24分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -28,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时24分]"
         },
         {
           "title": "OpenAI首席执行官：祝贺谷歌推出Gemini 3，这款模型看起来很棒。",
@@ -92,7 +92,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
@@ -102,8 +102,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时24分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -113,8 +113,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时24分]"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
@@ -124,8 +124,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时24分]"
         },
         {
           "title": "房地美股价触及盘中高点，上涨2.2%。",
@@ -148,6 +148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "美股银行股濒临跌破关键支撑位 将对整体股市发出严重警告",
+          "url": "https://flash.jin10.com/detail/20251119025030602800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         }
       ]
     },
@@ -180,8 +191,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时24分]"
         }
       ]
     }
