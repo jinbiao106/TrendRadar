@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T20:42:33.005537+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2025-11-19T21:33:06.709538+08:00",
+  "total_titles_processed": 1719,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
             11,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 20时42分]"
+          "appearance_count": 6,
+          "time_info": "[17时23分 ~ 21时33分]"
         },
         {
           "title": "劳氏第三季度调整后每股收益3.06美元，预估3.00美元。 第三季度同店销售增长0.4％，预估增长1.02％。 劳氏预计全年调整后每股收益大约12.25美元，市场预估12.40美元。 劳氏预计全年资本支出不超过25亿美元，此前预计大约25亿美元。 劳氏预计全年调整后运营利润率12.1％。 劳氏美股盘前涨3.5%。",
@@ -252,7 +253,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -264,8 +265,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时28分 ~ 20时42分]"
+          "appearance_count": 17,
+          "time_info": "[09时28分 ~ 21时33分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -278,8 +279,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时12分 ~ 20时42分]"
+          "appearance_count": 16,
+          "time_info": "[11时12分 ~ 21时33分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -325,11 +326,28 @@
             19,
             20,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时28分 ~ 19时18分]"
+          "appearance_count": 16,
+          "time_info": "[09时28分 ~ 21时33分]"
+        },
+        {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9,
+            18,
+            21,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时30分 ~ 21时33分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -357,20 +375,15 @@
           "time_info": "[09时28分 ~ 13时21分]"
         },
         {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
+          "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
+          "url": "https://www.zhihu.com/question/1974273046480184125",
+          "source": "知乎",
           "ranks": [
-            8,
-            9,
-            18,
-            21,
-            23,
-            24
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时30分 ~ 20时42分]"
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
         },
         {
           "title": "谷歌DeepMind在新加坡设立人工智能研究实验室。",
