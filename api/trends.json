@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T14:30:47.124832+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2025-11-20T15:20:22.383295+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时19分 ~ 14时30分]"
+          "appearance_count": 9,
+          "time_info": "[06时19分 ~ 15时20分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时19分 ~ 14时30分]"
+          "appearance_count": 8,
+          "time_info": "[07时19分 ~ 15时20分]"
         },
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
@@ -209,20 +209,6 @@
           "time_info": "[00时27分 ~ 07时19分]"
         },
         {
-          "title": "Gemini3有哪些新功能",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            8,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 14时30分]"
-        },
-        {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
           "url": "https://wallstreetcn.com/articles/3759713",
           "source": "华尔街见闻",
@@ -233,8 +219,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时30分 ~ 14时30分]"
+          "appearance_count": 14,
+          "time_info": "[02时30分 ~ 15时20分]"
         },
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
@@ -249,6 +235,21 @@
           "time_info": "[00时27分 ~ 06时19分]"
         },
         {
+          "title": "Gemini3有哪些新功能",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8,
+            9,
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 15时20分]"
+        },
+        {
           "title": "Gemini3是目前最强AI吗",
           "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
           "source": "bilibili 热搜",
@@ -258,22 +259,12 @@
             6,
             9,
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 14时30分]"
-        },
-        {
-          "title": "谷歌：在中国台北启用新的硬件工程中心。",
-          "url": "https://wallstreetcn.com/livenews/3007704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时30分"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 15时20分]"
         },
         {
           "title": "美股收盘：三大股指收涨 谷歌创新高",
@@ -307,6 +298,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "谷歌：在中国台北启用新的硬件工程中心。",
+          "url": "https://wallstreetcn.com/livenews/3007704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 15时20分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A冲高回落，收涨3%，英伟达在业绩报告发布前收涨超2.8%",
