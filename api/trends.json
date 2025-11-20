@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T11:10:55.592993+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2025-11-20T12:23:24.810931+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "ranks": [
             9,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时19分 ~ 11时10分]"
+          "appearance_count": 6,
+          "time_info": "[06时19分 ~ 12时23分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -43,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时19分 ~ 11时10分]"
+          "appearance_count": 5,
+          "time_info": "[07时19分 ~ 12时23分]"
         },
         {
           "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
@@ -193,7 +194,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -218,8 +219,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 11时10分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 12时23分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -232,8 +233,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时30分 ~ 11时10分]"
+          "appearance_count": 11,
+          "time_info": "[02时30分 ~ 12时23分]"
         },
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
@@ -256,11 +257,12 @@
             5,
             6,
             9,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 11时10分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 12时23分]"
         },
         {
           "title": "美股收盘：三大股指收涨 谷歌创新高",
@@ -280,7 +282,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         },
@@ -326,9 +328,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
+        },
+        {
+          "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
+          "url": "https://www.zhihu.com/question/1974483598263476355",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
