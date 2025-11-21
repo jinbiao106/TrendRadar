@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T12:24:23.062006+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2025-11-21T13:20:53.219136+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时19分 ~ 12时24分]"
+          "appearance_count": 8,
+          "time_info": "[06时19分 ~ 13时20分]"
         },
         {
           "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时18分 ~ 12时24分]"
+          "appearance_count": 7,
+          "time_info": "[07时18分 ~ 13时20分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -56,8 +56,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时27分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 13时20分]"
         },
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -69,8 +69,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时27分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 13时20分]"
         },
         {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
@@ -81,8 +81,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时11分 ~ 12时24分]"
+          "appearance_count": 4,
+          "time_info": "[11时11分 ~ 13时20分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -92,8 +92,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 12时24分]"
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 13时20分]"
         },
         {
           "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
@@ -103,8 +103,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 12时24分]"
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 13时20分]"
         },
         {
           "title": "科兴生物被美股“劝退”",
@@ -270,6 +270,17 @@
           "time_info": "05时19分"
         },
         {
+          "title": "美股科技股跳水引发连锁反应 亚洲芯片股承压",
+          "url": "https://flash.jin10.com/detail/20251121121525026800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "美股大跌 英伟达跌超3%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%B6%853%25",
           "source": "百度热搜",
@@ -312,6 +323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "美股为何巨震暴跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%BA%E4%BD%95%E5%B7%A8%E9%9C%87%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "美股期货收复失地，标普500指数期货转为上涨0.3%。",
@@ -381,6 +403,18 @@
           "time_info": "[02时29分 ~ 05时19分]"
         },
         {
+          "title": "Gemini 3深度实测",
+          "url": "https://www.douyin.com/hot/2312679",
+          "source": "抖音",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时11分 ~ 13时20分]"
+        },
+        {
           "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
           "url": "https://www.zhihu.com/question/1974981372130116043",
           "source": "知乎",
@@ -391,18 +425,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时19分 ~ 07时19分]"
-        },
-        {
-          "title": "Gemini 3深度实测",
-          "url": "https://www.douyin.com/hot/2312679",
-          "source": "抖音",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时11分 ~ 12时24分]"
         },
         {
           "title": "美机器人初创公司获6亿美元融资 由谷歌旗下基金领投",
@@ -533,8 +555,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时27分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 13时20分]"
         },
         {
           "title": "美债价格在就业数据发布后反弹，风险资产下跌让投资者转向避险美债",
