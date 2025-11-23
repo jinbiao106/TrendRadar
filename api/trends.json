@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T07:19:15.489953+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2025-11-23T09:48:11.288396+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时48分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -26,11 +27,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时48分]"
         },
         {
           "title": "Gemini-3-pro 为什么提升那么大?",
@@ -40,11 +42,12 @@
             10,
             9,
             12,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时27分 ~ 07时19分]"
+          "appearance_count": 10,
+          "time_info": "[02时27分 ~ 09时48分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -67,7 +70,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股收盘：美联储“鸽声”提振市场 三大指数集体反弹 道指涨超1%",
@@ -78,8 +81,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时48分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -87,11 +90,23 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时48分]"
+        },
+        {
+          "title": "“疫苗之王”科兴或从美股退市",
+          "url": "https://www.toutiao.com/trending/7575693927517261318/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 09时48分]"
         }
       ]
     },
@@ -107,8 +122,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时48分]"
         }
       ]
     }
