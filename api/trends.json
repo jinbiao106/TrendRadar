@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T14:29:26.861513+08:00",
-  "total_titles_processed": 729,
+  "generated_at": "2025-11-23T15:19:08.310226+08:00",
+  "total_titles_processed": 783,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 14时29分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 15时19分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -65,11 +65,12 @@
             24,
             19,
             17,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 14时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 15时19分]"
         }
       ]
     },
@@ -101,8 +102,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 14时29分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 15时19分]"
         },
         {
           "title": "“疫苗之王”科兴或从美股退市",
@@ -129,8 +130,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 14时29分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 15时19分]"
         }
       ]
     }
