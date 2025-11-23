@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T12:33:30.806464+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2025-11-23T13:19:35.396784+08:00",
+  "total_titles_processed": 677,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 12时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 13时19分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -45,11 +45,12 @@
             16,
             15,
             13,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时27分 ~ 12时33分]"
+          "appearance_count": 14,
+          "time_info": "[02时27分 ~ 13时19分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -67,8 +68,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 12时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 13时19分]"
         }
       ]
     },
@@ -96,11 +97,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 12时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 13时19分]"
         },
         {
           "title": "“疫苗之王”科兴或从美股退市",
@@ -127,8 +129,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 12时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 13时19分]"
         }
       ]
     }
