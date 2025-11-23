@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T16:25:16.900879+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2025-11-23T17:19:45.885464+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
@@ -67,11 +67,12 @@
             17,
             14,
             9,
-            21
+            21,
+            16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 16时25分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 17时19分]"
         }
       ]
     },
@@ -103,8 +104,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时22分 ~ 16时25分]"
+          "appearance_count": 22,
+          "time_info": "[00时22分 ~ 17时19分]"
         },
         {
           "title": "“疫苗之王”科兴或从美股退市",
@@ -131,8 +132,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时22分 ~ 16时25分]"
+          "appearance_count": 22,
+          "time_info": "[00时22分 ~ 17时19分]"
         }
       ]
     }
