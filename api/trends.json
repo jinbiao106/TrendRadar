@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T12:25:32.175531+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2025-11-27T13:21:20.822863+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时27分 ~ 12时25分]"
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 13时21分]"
         },
         {
           "title": "美股收盘：三大指数连涨四日 芯片股全线走强",
@@ -53,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时27分 ~ 12时25分]"
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 13时21分]"
         },
         {
           "title": "Tilray Brands Inc.美股盘后跌20%。",
@@ -242,6 +242,17 @@
           "time_info": "[00时27分 ~ 05时18分]"
         },
         {
+          "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
+          "url": "https://wallstreetcn.com/articles/3760164",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 13时21分]"
+        },
+        {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
           "url": "https://wallstreetcn.com/articles/3760141",
           "source": "华尔街见闻",
@@ -265,17 +276,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时27分 ~ 05时18分]"
-        },
-        {
-          "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
-          "url": "https://wallstreetcn.com/articles/3760164",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时27分 ~ 12时25分]"
         },
         {
           "title": "美股七巨头收盘播报｜微软、特斯拉、英伟达至多收涨约1.8%，谷歌A则跌约1.1%",
