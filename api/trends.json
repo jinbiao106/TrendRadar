@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T11:12:31.219555+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2025-11-27T12:25:32.175531+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
@@ -41,19 +41,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 11时12分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 12时25分]"
         },
         {
           "title": "美股收盘：三大指数连涨四日 芯片股全线走强",
           "url": "https://www.cls.cn/detail/2212125",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 11时12分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 12时25分]"
         },
         {
           "title": "Tilray Brands Inc.美股盘后跌20%。",
@@ -273,8 +274,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 11时12分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 12时25分]"
         },
         {
           "title": "美股七巨头收盘播报｜微软、特斯拉、英伟达至多收涨约1.8%，谷歌A则跌约1.1%",
