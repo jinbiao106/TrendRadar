@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T12:25:23.780471+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2025-11-28T13:21:42.334307+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
@@ -91,8 +91,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 12时25分]"
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 13时21分]"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
