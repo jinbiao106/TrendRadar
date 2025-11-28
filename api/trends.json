@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T20:41:21.268456+08:00",
-  "total_titles_processed": 1713,
+  "generated_at": "2025-11-28T21:31:32.348308+08:00",
+  "total_titles_processed": 1807,
   "failed_sources": [],
   "trends": [
     {
@@ -97,7 +97,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         }
@@ -117,8 +117,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时26分 ~ 20时41分]"
+          "appearance_count": 15,
+          "time_info": "[09时26分 ~ 21时31分]"
         },
         {
           "title": "分析：美股股指势将结束连胜势头，罕见在11月收跌",
