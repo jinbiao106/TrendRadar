@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T14:32:14.118804+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2025-11-28T15:20:45.371649+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
@@ -91,8 +91,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 14时32分]"
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 15时20分]"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
@@ -104,6 +104,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "野村证券：将利用OpenAI的战略和技术支持开发新服务。",
+          "url": "https://flash.jin10.com/detail/20251128145150536800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     }
