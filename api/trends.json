@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T06:19:26.656443+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2025-11-30T07:19:07.964217+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 07时19分]"
         },
         {
           "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 07时19分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
@@ -38,8 +38,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 07时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股反弹了，但年底大涨也不用指望？",
+          "url": "https://wallstreetcn.com/articles/3760368",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 07时19分]"
         }
       ]
     }
