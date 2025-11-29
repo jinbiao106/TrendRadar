@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T18:20:51.576331+08:00",
-  "total_titles_processed": 1207,
+  "generated_at": "2025-11-29T19:16:43.307502+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时18分 ~ 18时20分]"
+          "appearance_count": 16,
+          "time_info": "[07时18分 ~ 19时16分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -227,7 +227,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
@@ -240,8 +240,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时12分 ~ 18时20分]"
+          "appearance_count": 12,
+          "time_info": "[11时12分 ~ 19时16分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -254,8 +254,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时20分 ~ 18时20分]"
+          "appearance_count": 9,
+          "time_info": "[13时20分 ~ 19时16分]"
+        },
+        {
+          "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
+          "url": "https://wallstreetcn.com/articles/3760377",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     },
