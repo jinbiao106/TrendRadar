@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T14:30:24.544990+08:00",
-  "total_titles_processed": 946,
+  "generated_at": "2025-11-29T15:19:17.316997+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时18分 ~ 14时30分]"
+          "appearance_count": 11,
+          "time_info": "[07时18分 ~ 15时19分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -56,8 +56,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 14时30分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 15时19分]"
         },
         {
           "title": "美股三大股指收涨 英特尔涨超10%",
@@ -239,8 +239,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时12分 ~ 14时30分]"
+          "appearance_count": 7,
+          "time_info": "[11时12分 ~ 15时19分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -251,8 +251,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 14时30分]"
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 15时19分]"
         }
       ]
     },
