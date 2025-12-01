@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T15:23:59.611473+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2025-12-01T16:32:30.715078+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -35,8 +35,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 15时23分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 16时32分]"
         },
         {
           "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
@@ -62,6 +62,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时34分 ~ 15时23分]"
+        },
+        {
+          "title": "存储大厂打入“谷歌链”！SK海力士借机巩固HBM龙头地位",
+          "url": "https://www.cls.cn/detail/2215337",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     },
