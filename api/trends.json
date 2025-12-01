@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T02:34:28.447672+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2025-12-02T03:21:54.042483+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -15,41 +15,44 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时21分]"
         },
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
           "url": "https://www.cls.cn/detail/2216342",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时21分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251202013128346800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 03时21分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251202013125562800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 03时21分]"
         }
       ]
     },
@@ -66,8 +69,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时21分]"
         }
       ]
     }
