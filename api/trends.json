@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T18:38:48.594900+08:00",
-  "total_titles_processed": 1509,
+  "generated_at": "2025-12-02T19:20:35.481370+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
@@ -224,8 +224,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 18时38分]"
+          "appearance_count": 22,
+          "time_info": "[00时29分 ~ 19时20分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -238,8 +238,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时39分 ~ 18时38分]"
+          "appearance_count": 12,
+          "time_info": "[09时39分 ~ 19时20分]"
         },
         {
           "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
@@ -267,8 +267,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时20分 ~ 18时38分]"
+          "appearance_count": 9,
+          "time_info": "[13时20分 ~ 19时20分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
