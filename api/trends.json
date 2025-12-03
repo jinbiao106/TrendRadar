@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T16:30:56.098814+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2025-12-03T17:25:50.523313+08:00",
+  "total_titles_processed": 1533,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时38分 ~ 16时30分]"
+          "appearance_count": 10,
+          "time_info": "[09时38分 ~ 17时25分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -210,6 +210,18 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时38分 ~ 17时25分]"
+        },
+        {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
           "url": "https://wallstreetcn.com/articles/3760505",
           "source": "华尔街见闻",
@@ -222,18 +234,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时29分 ~ 09时39分]"
-        },
-        {
-          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
-          "url": "https://wallstreetcn.com/articles/3760564",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时38分 ~ 16时30分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -275,8 +275,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时29分 ~ 16时30分]"
+          "appearance_count": 6,
+          "time_info": "[12时29分 ~ 17时25分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
@@ -432,7 +432,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         }
