@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T09:39:14.019786+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2025-12-03T11:18:16.389635+08:00",
+  "total_titles_processed": 975,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,31 @@
           "time_info": "[02时33分 ~ 09时39分]"
         },
         {
+          "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
+          "url": "https://www.cls.cn/detail/2217711",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时19分 ~ 11时18分]"
+        },
+        {
+          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
+          "url": "https://wallstreetcn.com/articles/3760523",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时38分 ~ 11时18分]"
+        },
+        {
           "title": "美股三大指数小幅高开 英伟达涨超1%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%B6%851%25",
           "source": "百度热搜",
@@ -41,29 +66,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时29分 ~ 06时18分]"
-        },
-        {
-          "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
-          "url": "https://www.cls.cn/detail/2217711",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 09时39分]"
-        },
-        {
-          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
-          "url": "https://wallstreetcn.com/articles/3760523",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 09时39分]"
         },
         {
           "title": "金十图示：2025年12月02日（周二）热门中概股行情一览（美股收盘）",
@@ -258,8 +260,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 09时39分]"
+          "appearance_count": 4,
+          "time_info": "[09时38分 ~ 11时18分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
