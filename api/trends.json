@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T17:25:50.523313+08:00",
-  "total_titles_processed": 1533,
+  "generated_at": "2025-12-03T18:24:42.457401+08:00",
+  "total_titles_processed": 1640,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时38分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时38分 ~ 18时24分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -218,8 +218,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时38分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时38分 ~ 18时24分]"
         },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -275,8 +275,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时29分 ~ 17时25分]"
+          "appearance_count": 7,
+          "time_info": "[12时29分 ~ 18时24分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
