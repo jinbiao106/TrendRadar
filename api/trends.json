@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T16:29:21.855520+08:00",
-  "total_titles_processed": 1376,
+  "generated_at": "2025-12-05T17:22:28.082830+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
@@ -201,6 +201,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
+          "url": "https://wallstreetcn.com/articles/3760711",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时40分 ~ 17时22分]"
+        },
+        {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
           "url": "https://wallstreetcn.com/articles/3760712",
           "source": "华尔街见闻",
@@ -215,18 +227,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时30分 ~ 16时29分]"
-        },
-        {
-          "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
-          "url": "https://wallstreetcn.com/articles/3760711",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时40分 ~ 16时29分]"
         },
         {
           "title": "美股徘徊历史高点边缘，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -287,11 +287,12 @@
           "url": "https://flash.jin10.com/detail/20251205161256990800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 17时22分]"
         },
         {
           "title": "谷歌云与AI编程初创公司Replit达成多年合作伙伴关系，试图挑战Anthropic和Cursor",
@@ -359,11 +360,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时40分 ~ 16时29分]"
+          "appearance_count": 10,
+          "time_info": "[09时40分 ~ 17时22分]"
         }
       ]
     }
