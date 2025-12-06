@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T22:18:06.079676+08:00",
-  "total_titles_processed": 1517,
+  "generated_at": "2025-12-06T23:19:00.385144+08:00",
+  "total_titles_processed": 1567,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时26分 ~ 22时18分]"
+          "appearance_count": 19,
+          "time_info": "[09时26分 ~ 23时19分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -47,8 +47,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时19分 ~ 22时18分]"
+          "appearance_count": 20,
+          "time_info": "[07时19分 ~ 23时19分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.26%，报318.46点，本周累计下跌1.89%。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.02%，报2284.96点，美股开盘之前持续微幅上涨，随后出现尖锐的冲高回落行情——北京时间23:00披露美国PCE通胀数据之后刷新日高，本周累计下跌1.41%。",
@@ -173,7 +173,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -185,8 +185,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 22时18分]"
+          "appearance_count": 8,
+          "time_info": "[18时20分 ~ 23时19分]"
         },
         {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
@@ -211,6 +211,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时24分 ~ 09时26分]"
+        },
+        {
+          "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
+          "url": "https://www.zhihu.com/question/1979858915077404344",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时19分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
