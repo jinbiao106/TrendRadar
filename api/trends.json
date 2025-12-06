@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T04:21:53.549271+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2025-12-07T05:17:57.883615+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 05时17分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -45,8 +45,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 05时17分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -56,8 +56,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 05时17分]"
         }
       ]
     }
