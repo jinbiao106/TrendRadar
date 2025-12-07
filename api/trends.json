@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T12:33:39.764106+08:00",
-  "total_titles_processed": 696,
+  "generated_at": "2025-12-07T13:19:03.661943+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 12时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 13时19分]"
         },
         {
           "title": "美股三大指数小幅收涨",
