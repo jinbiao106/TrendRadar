@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T00:29:26.208788+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-09T01:21:14.049524+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
           "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
           "title": "行业ETF美股盘初涨跌各异，半导体ETF涨1.57%，全球科技股指数ETF涨1.12%，科技行业ETF涨1.10%，网络股指数涨0.11%，能源业ETF则跌0.48%，可选消费ETF跌0.85%。",
@@ -62,11 +62,12 @@
           "url": "https://www.cls.cn/detail/2223271",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时21分]"
         }
       ]
     },
@@ -79,11 +80,12 @@
           "url": "https://wallstreetcn.com/livenews/3017053",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         }
       ]
     }
