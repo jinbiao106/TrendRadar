@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T09:40:04.211944+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2025-12-09T11:19:48.058432+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 09时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 11时19分]"
         },
         {
           "title": "静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高",
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时20分 ~ 09时40分]"
+          "appearance_count": 4,
+          "time_info": "[07时20分 ~ 11时19分]"
         },
         {
           "title": "周一（12月8日），彭博电动汽车价格回报指数涨1.11%，报3465.35点。 亚太盘初持续走高，北京时间14:35刷新日高至3479.12点，之后持续高位震荡；美股开盘后回吐部分涨幅。",
@@ -235,11 +235,12 @@
             13,
             12,
             11,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 09时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 11时19分]"
         },
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -249,8 +250,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 09时40分]"
+          "appearance_count": 3,
+          "time_info": "[09时39分 ~ 11时19分]"
         },
         {
           "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
@@ -296,8 +297,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 09时40分]"
+          "appearance_count": 3,
+          "time_info": "[09时39分 ~ 11时19分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌约3.4%，谷歌A跌约2.3%，英伟达涨超1.7%",
@@ -359,8 +360,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 09时40分]"
+          "appearance_count": 3,
+          "time_info": "[09时39分 ~ 11时19分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
