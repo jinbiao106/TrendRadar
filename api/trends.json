@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T14:33:27.894792+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2025-12-09T15:23:31.370193+08:00",
+  "total_titles_processed": 1321,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时20分 ~ 14时33分]"
+          "appearance_count": 8,
+          "time_info": "[07时20分 ~ 15时23分]"
         },
         {
           "title": "周一（12月8日），彭博电动汽车价格回报指数涨1.11%，报3465.35点。 亚太盘初持续走高，北京时间14:35刷新日高至3479.12点，之后持续高位震荡；美股开盘后回吐部分涨幅。",
@@ -229,6 +229,18 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
+          "url": "https://www.cls.cn/detail/2223368",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时39分 ~ 15时23分]"
+        },
+        {
           "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
           "url": "https://www.cls.cn/detail/2223271",
           "source": "财联社热门",
@@ -244,28 +256,17 @@
           "time_info": "[00时29分 ~ 13时21分]"
         },
         {
-          "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
-          "url": "https://www.cls.cn/detail/2223368",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时39分 ~ 14时33分]"
-        },
-        {
           "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
           "url": "https://www.cls.cn/detail/2223387",
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时39分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[09时39分 ~ 15时23分]"
         },
         {
           "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
@@ -376,8 +377,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时39分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[09时39分 ~ 15时23分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
