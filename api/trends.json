@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T13:21:25.933391+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2025-12-09T14:33:27.894792+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 14时33分]"
         },
         {
           "title": "周一（12月8日），彭博电动汽车价格回报指数涨1.11%，报3465.35点。 亚太盘初持续走高，北京时间14:35刷新日高至3479.12点，之后持续高位震荡；美股开盘后回吐部分涨幅。",
@@ -252,19 +252,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时39分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时39分 ~ 14时33分]"
         },
         {
           "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
           "url": "https://www.cls.cn/detail/2223387",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时39分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时39分 ~ 14时33分]"
         },
         {
           "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
@@ -371,11 +372,12 @@
           "url": "https://wallstreetcn.com/articles/3760903",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时39分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时39分 ~ 14时33分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
