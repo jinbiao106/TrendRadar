@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T17:25:28.521280+08:00",
-  "total_titles_processed": 1517,
+  "generated_at": "2025-12-09T18:26:22.631958+08:00",
+  "total_titles_processed": 1631,
   "failed_sources": [],
   "trends": [
     {
@@ -196,7 +196,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -237,7 +237,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -289,6 +289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
@@ -435,8 +446,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时39分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时39分 ~ 18时26分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
