@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T15:23:31.370193+08:00",
-  "total_titles_processed": 1321,
+  "generated_at": "2025-12-09T16:31:16.847780+08:00",
+  "total_titles_processed": 1435,
   "failed_sources": [],
   "trends": [
     {
@@ -226,7 +226,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -267,6 +267,50 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时39分 ~ 15时23分]"
+        },
+        {
+          "title": "欧盟将调查谷歌是否违反竞争法",
+          "url": "https://wallstreetcn.com/livenews/3017511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "欧盟就谷歌将在线内容用于AI相关用途一事发起反垄断调查",
+          "url": "https://flash.jin10.com/detail/20251209161413716800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "市场消息：欧洲监管机构将调查谷歌(GOOG.O)是否违反竞争法。",
+          "url": "https://flash.jin10.com/detail/20251209161206794800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "市场消息：欧洲监管机构对谷歌(GOOG.O)人工智能使用在线内容展开调查。",
+          "url": "https://flash.jin10.com/detail/20251209161139815800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
@@ -377,8 +421,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时39分 ~ 15时23分]"
+          "appearance_count": 9,
+          "time_info": "[09时39分 ~ 16时31分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
