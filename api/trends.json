@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T20:44:02.856993+08:00",
-  "total_titles_processed": 1871,
+  "generated_at": "2025-12-10T21:38:03.367620+08:00",
+  "total_titles_processed": 1958,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
@@ -149,6 +149,17 @@
           "time_info": "02时28分"
         },
         {
+          "title": "光掩模供应商Photronics美股盘前大涨15%，公司第一季度营收预期超出预期。",
+          "url": "https://wallstreetcn.com/livenews/3018453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收涨将近1.3%，Meta跌约1.5%",
           "url": "https://wallstreetcn.com/livenews/3017889",
           "source": "华尔街见闻-快讯",
@@ -173,92 +184,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时14分 ~ 20时44分]"
-        },
-        {
-          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
-          "url": "https://wallstreetcn.com/articles/3760903",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 07时21分]"
-        },
-        {
-          "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时28分]"
-        },
-        {
-          "title": "美债价格在美国职位空缺数据发布后显著下挫",
-          "url": "https://wallstreetcn.com/livenews/3017876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时21分]"
-        },
-        {
-          "title": "摩根士丹利：美债收益率目前偏低 美联储后续降息幅度或低于市场预期",
-          "url": "https://flash.jin10.com/detail/20251210200728866800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
-          "title": "美国10年期国债收益率短线从4.15%反弹至4.18%上方，在北京时间23:00发布美国职位空缺数据后刷新日高。 两年期美债收益率也从日低3.5628%附近拉升至3.6064%，刷新日高；“影子美联储主席”、白宫顾问哈塞特谈论美联储降息问题、自己对特朗普政策利率态度的看法并未带来“丝毫”波动。",
-          "url": "https://wallstreetcn.com/livenews/3017796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "十年期美债收益率升至三月高点 分析师称美联储决议后升幅有限",
-          "url": "https://flash.jin10.com/detail/20251210194057228800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
@@ -319,6 +246,17 @@
           "time_info": "19时20分"
         },
         {
+          "title": "标普全球与谷歌云签署多年合作协议。",
+          "url": "https://flash.jin10.com/detail/20251210210123697800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
           "url": "https://flash.jin10.com/detail/20251210023813881800",
           "source": "金十数据",
@@ -328,6 +266,90 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[10时14分 ~ 21时38分]"
+        },
+        {
+          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
+          "url": "https://wallstreetcn.com/articles/3760903",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时21分]"
+        },
+        {
+          "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "美债价格在美国职位空缺数据发布后显著下挫",
+          "url": "https://wallstreetcn.com/livenews/3017876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时21分]"
+        },
+        {
+          "title": "摩根士丹利：美债收益率目前偏低 美联储后续降息幅度或低于市场预期",
+          "url": "https://flash.jin10.com/detail/20251210200728866800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "美国10年期国债收益率短线从4.15%反弹至4.18%上方，在北京时间23:00发布美国职位空缺数据后刷新日高。 两年期美债收益率也从日低3.5628%附近拉升至3.6064%，刷新日高；“影子美联储主席”、白宫顾问哈塞特谈论美联储降息问题、自己对特朗普政策利率态度的看法并未带来“丝毫”波动。",
+          "url": "https://wallstreetcn.com/livenews/3017796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "十年期美债收益率升至三月高点 分析师称美联储决议后升幅有限",
+          "url": "https://flash.jin10.com/detail/20251210194057228800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         }
       ]
     },
