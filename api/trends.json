@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-11T15:25:17.519310+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2025-12-11T16:31:23.935947+08:00",
+  "total_titles_processed": 1537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 18,
       "titles": [
+        {
+          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
+          "url": "https://wallstreetcn.com/articles/3761091",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时42分 ~ 16时31分]"
+        },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
           "url": "https://www.cls.cn/detail/2225967",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[07时18分 ~ 15时25分]"
-        },
-        {
-          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
-          "url": "https://wallstreetcn.com/articles/3761091",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时42分 ~ 15时25分]"
         },
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
