@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T14:34:01.230204+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2025-12-12T15:24:30.069267+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时20分 ~ 14时34分]"
+          "appearance_count": 8,
+          "time_info": "[07时20分 ~ 15时24分]"
         },
         {
           "title": "AI泡沫担忧重燃，甲骨文跌16%，美股涨跌不一，金油承压，比特币跌超2%",
@@ -239,8 +239,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时34分]"
+          "appearance_count": 6,
+          "time_info": "[11时24分 ~ 15时24分]"
         },
         {
           "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
