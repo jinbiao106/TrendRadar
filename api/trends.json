@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T13:22:47.830696+08:00",
-  "total_titles_processed": 1207,
+  "generated_at": "2025-12-12T14:34:01.230204+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,18 @@
           "time_info": "[00时31分 ~ 07时20分]"
         },
         {
+          "title": "美股收盘：道指、标普携手刷新收盘纪录 甲骨文拖累纳指走低",
+          "url": "https://www.cls.cn/detail/2227262",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 14时34分]"
+        },
+        {
           "title": "AI泡沫担忧重燃，甲骨文跌16%，美股涨跌不一，金油承压，比特币跌超2%",
           "url": "https://wallstreetcn.com/articles/3761175",
           "source": "华尔街见闻",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时22分 ~ 06时21分]"
-        },
-        {
-          "title": "美股收盘：道指、标普携手刷新收盘纪录 甲骨文拖累纳指走低",
-          "url": "https://www.cls.cn/detail/2227262",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 13时22分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
@@ -239,8 +239,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[11时24分 ~ 14时34分]"
         },
         {
           "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
