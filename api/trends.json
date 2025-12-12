@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T17:26:04.942643+08:00",
-  "total_titles_processed": 1608,
+  "generated_at": "2025-12-12T18:24:07.726149+08:00",
+  "total_titles_processed": 1701,
   "failed_sources": [],
   "trends": [
     {
@@ -228,7 +228,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -237,11 +237,23 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时24分 ~ 17时26分]"
+          "appearance_count": 11,
+          "time_info": "[11时24分 ~ 18时24分]"
+        },
+        {
+          "title": "TD Cowen：将谷歌母公司Alphabet目标股价从335美元上调至350美元。",
+          "url": "https://flash.jin10.com/detail/20251212174133299800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
@@ -414,7 +426,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
