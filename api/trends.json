@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T20:47:53.336674+08:00",
-  "total_titles_processed": 1636,
+  "generated_at": "2025-12-15T21:41:38.490212+08:00",
+  "total_titles_processed": 1718,
   "failed_sources": [],
   "trends": [
     {
@@ -63,6 +63,18 @@
           "time_info": "[11时42分 ~ 16时33分]"
         },
         {
+          "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
+          "url": "https://wallstreetcn.com/articles/3761417",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时41分]"
+        },
+        {
           "title": "iRobot股价美股盘前暴跌82.5%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",
           "url": "https://flash.jin10.com/detail/20251215170334528800",
           "source": "金十数据",
@@ -72,17 +84,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
-        },
-        {
-          "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
-          "url": "https://wallstreetcn.com/articles/3761417",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
         },
         {
           "title": "iRobot股价美股盘前暴跌超80%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",
@@ -154,6 +155,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场分析：受美国降息预期和避险需求提振，黄金价格上涨",
+          "url": "https://flash.jin10.com/detail/20251215210622146800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         }
       ]
     }
