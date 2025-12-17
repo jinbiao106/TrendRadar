@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T09:29:50.279600+08:00",
-  "total_titles_processed": 825,
+  "generated_at": "2025-12-17T11:21:00.870051+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 09时29分]"
+          "appearance_count": 4,
+          "time_info": "[07时20分 ~ 11时21分]"
         },
         {
           "title": "彭博援引知情人士报道称，已经申请破产的航空公司Spirit Airlines Holdings Inc.考虑与Frontier Group Holdings合并。 Frontier美股盘后涨16%。",
