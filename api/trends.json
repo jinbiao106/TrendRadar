@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T12:34:42.701106+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2025-12-19T13:22:44.842426+08:00",
+  "total_titles_processed": 1235,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 12时34分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 13时22分]"
         },
         {
           "title": "通胀意外回落，美股三大股指期货全线反弹，纳指期货涨超1%，美元跳水，现货黄金跌幅收窄",
@@ -61,11 +61,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时22分]"
         },
         {
           "title": "甲骨文美股盘后涨3.59%。",
@@ -441,7 +442,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         }
