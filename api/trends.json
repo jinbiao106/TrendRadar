@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T22:19:01.347422+08:00",
-  "total_titles_processed": 1520,
+  "generated_at": "2025-12-20T23:19:52.644441+08:00",
+  "total_titles_processed": 1572,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时28分 ~ 22时19分]"
+          "appearance_count": 20,
+          "time_info": "[09时28分 ~ 23时19分]"
         },
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
@@ -57,8 +57,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时28分 ~ 22时19分]"
+          "appearance_count": 20,
+          "time_info": "[09时28分 ~ 23时19分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -81,8 +81,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时27分 ~ 22时19分]"
+          "appearance_count": 17,
+          "time_info": "[12时27分 ~ 23时19分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -238,11 +238,12 @@
             6,
             10,
             12,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 22时19分]"
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 23时19分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
