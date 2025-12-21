@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T21:28:27.421611+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2025-12-21T22:19:16.868829+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时31分 ~ 21时28分]"
+          "appearance_count": 11,
+          "time_info": "[14时31分 ~ 22时19分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -81,7 +81,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
@@ -102,8 +102,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 21时28分]"
+          "appearance_count": 3,
+          "time_info": "[20时39分 ~ 22时19分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -115,6 +115,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时24分 ~ 04时21分]"
+        },
+        {
+          "title": "Gemini数学实力测试",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%E6%95%B0%E5%AD%A6%E5%AE%9E%E5%8A%9B%E6%B5%8B%E8%AF%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         }
       ]
     }
