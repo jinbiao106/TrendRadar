@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T12:40:56.427045+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2025-12-22T13:25:20.036071+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时40分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时25分]"
         }
       ]
     },
@@ -56,22 +57,41 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 12时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 13时25分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
           "url": "https://wallstreetcn.com/articles/3761792",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时40分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印度航空：航班AI887，一架从德里飞往孟买的波音777客机，因技术问题于12月22日起飞后返航德里。",
+          "url": "https://flash.jin10.com/detail/20251222122308407800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         }
       ]
     }
