@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T19:20:09.479417+08:00",
-  "total_titles_processed": 1689,
+  "generated_at": "2025-12-23T20:44:30.223009+08:00",
+  "total_titles_processed": 1796,
   "failed_sources": [],
   "trends": [
     {
@@ -227,7 +227,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，咱博爱89627.99美元；以太坊涨1.80%，报3043.51美元。",
@@ -298,6 +298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "美元指数DXY日内下跌0.4%，跌至10月3日以来新低，报97.853。",
+          "url": "https://flash.jin10.com/detail/20251223192922576800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         }
       ]
     },
@@ -317,8 +328,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时19分 ~ 19时20分]"
+          "appearance_count": 22,
+          "time_info": "[01时19分 ~ 20时44分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
