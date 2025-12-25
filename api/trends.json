@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T18:22:53.623261+08:00",
-  "total_titles_processed": 1507,
+  "generated_at": "2025-12-25T19:18:44.222170+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时43分 ~ 18时22分]"
+          "appearance_count": 12,
+          "time_info": "[09时43分 ~ 19时18分]"
         },
         {
           "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
@@ -26,11 +26,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时27分 ~ 18时22分]"
+          "appearance_count": 8,
+          "time_info": "[11时27分 ~ 19时18分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
