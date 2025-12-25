@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T07:20:36.597275+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2025-12-25T09:43:21.187672+08:00",
+  "total_titles_processed": 742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股行业ETF普遍收涨",
@@ -20,6 +20,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时17分 ~ 06时20分]"
+        },
+        {
+          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
+          "url": "https://wallstreetcn.com/articles/3761989",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
+          "url": "https://www.cls.cn/detail/2239383",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时20分 ~ 09时43分]"
         },
         {
           "title": "金十图示：2025年12月24日（周三）美股热门股票行情一览（美股收盘）",
@@ -85,18 +109,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时17分 ~ 05时19分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
-          "url": "https://www.cls.cn/detail/2239383",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时20分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.68%，报358.01点，脱离收盘历史最高位，连续两个交易日撤离盘中历史最高位。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.37%，报2545.80点。",
@@ -247,7 +259,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         }
