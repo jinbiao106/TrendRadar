@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T01:18:26.370458+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2025-12-27T02:31:12.251967+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时31分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2241565",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时31分]"
         },
         {
           "title": "标普500续创新高 “圣诞老人行情”预期支撑美股",
@@ -26,17 +37,6 @@
           "ranks": [
             10,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时18分]"
-        },
-        {
-          "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
-          "url": "https://www.cls.cn/detail/2241565",
-          "source": "财联社热门",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
