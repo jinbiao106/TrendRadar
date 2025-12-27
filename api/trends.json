@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T15:20:14.368712+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2025-12-27T16:27:49.920741+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时40分 ~ 15时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时40分 ~ 16时27分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -27,20 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时40分 ~ 15时20分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
-          "url": "https://www.cls.cn/detail/2241688",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时40分 ~ 15时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时40分 ~ 16时27分]"
         },
         {
           "title": "美股指开盘涨跌不一，霸王茶姬股价创新低，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
@@ -54,6 +42,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时25分 ~ 05时19分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
+          "url": "https://www.cls.cn/detail/2241688",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时40分 ~ 16时27分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
