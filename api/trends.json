@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T13:22:20.463428+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2025-12-27T14:31:54.612559+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
@@ -21,20 +21,6 @@
           "time_info": "[00时25分 ~ 05时19分]"
         },
         {
-          "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
-          "url": "https://www.cls.cn/detail/2241565",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 13时22分]"
-        },
-        {
           "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
           "url": "https://wallstreetcn.com/articles/3762133",
           "source": "华尔街见闻",
@@ -42,8 +28,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时40分 ~ 13时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时40分 ~ 14时31分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2241565",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 14时31分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -54,8 +55,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时40分 ~ 13时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时40分 ~ 14时31分]"
         },
         {
           "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
@@ -66,8 +67,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时40分 ~ 13时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时40分 ~ 14时31分]"
         },
         {
           "title": "节后首日美股走低，贵金属“疯狂”，白银暴涨10%，和平曙光重挫油价，比特币遭冷落",
@@ -217,11 +218,12 @@
           "source": "微博",
           "ranks": [
             29,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 13时22分]"
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 14时31分]"
         }
       ]
     },
