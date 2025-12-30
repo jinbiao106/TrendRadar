@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T16:31:05.829414+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2025-12-30T17:26:33.468815+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时43分 ~ 16时31分]"
+          "appearance_count": 12,
+          "time_info": "[09时43分 ~ 17时26分]"
         },
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -60,11 +60,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时22分 ~ 16时31分]"
+          "appearance_count": 5,
+          "time_info": "[15时22分 ~ 17时26分]"
         },
         {
           "title": "“圣诞行情”暂歇，美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口",
