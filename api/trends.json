@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T19:19:58.450630+08:00",
-  "total_titles_processed": 1597,
+  "generated_at": "2025-12-30T20:44:39.201110+08:00",
+  "total_titles_processed": 1713,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时43分 ~ 19时19分]"
+          "appearance_count": 15,
+          "time_info": "[09时43分 ~ 20时44分]"
         },
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -53,8 +53,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时22分 ~ 19时19分]"
+          "appearance_count": 8,
+          "time_info": "[15时22分 ~ 20时44分]"
         },
         {
           "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
@@ -143,7 +143,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -154,7 +154,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
