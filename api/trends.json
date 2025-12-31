@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T15:24:16.280310+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2025-12-31T16:31:25.719830+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时20分 ~ 15时24分]"
+          "appearance_count": 13,
+          "time_info": "[07时20分 ~ 16时31分]"
         },
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -341,8 +341,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时44分 ~ 14时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时44分 ~ 16时31分]"
         }
       ]
     }
