@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T12:39:14.187113+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2025-12-31T13:26:13.473788+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 12时39分]"
+          "appearance_count": 8,
+          "time_info": "[07时20分 ~ 13时26分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -336,11 +336,12 @@
           "source": "抖音",
           "ranks": [
             26,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 11时28分]"
+          "appearance_count": 5,
+          "time_info": "[09时44分 ~ 13时26分]"
         }
       ]
     }
