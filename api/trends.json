@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T07:21:17.482393+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-01-02T09:45:07.810406+08:00",
+  "total_titles_processed": 623,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 07时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 09时45分]"
         },
         {
           "title": "美股三大股指期货周五开盘微涨。",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         }
