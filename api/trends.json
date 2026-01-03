@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T18:21:41.519680+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-01-03T19:18:01.321432+08:00",
+  "total_titles_processed": 1259,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时39分 ~ 18时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时39分 ~ 19时18分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -43,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[02时31分 ~ 18时21分]"
+          "appearance_count": 21,
+          "time_info": "[02时31分 ~ 19时18分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -70,8 +70,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时26分 ~ 18时21分]"
+          "appearance_count": 24,
+          "time_info": "[00时26分 ~ 19时18分]"
         },
         {
           "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
@@ -83,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时39分 ~ 18时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时39分 ~ 19时18分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
@@ -170,6 +170,18 @@
           "time_info": "[06时21分 ~ 14时32分]"
         },
         {
+          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
+          "url": "https://wallstreetcn.com/articles/3762474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 19时18分]"
+        },
+        {
           "title": "半导体概念股美股新年首日普遍收涨",
           "url": "https://wallstreetcn.com/livenews/3029957",
           "source": "华尔街见闻-快讯",
@@ -184,17 +196,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时40分 ~ 15时20分]"
-        },
-        {
-          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
-          "url": "https://wallstreetcn.com/articles/3762474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时21分]"
         },
         {
           "title": "美股高开低走，道指、标普500指数相继转跌。",
