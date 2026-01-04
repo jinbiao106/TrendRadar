@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-01-04T12:50:38.391976+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-01-04T13:27:30.328817+08:00",
+  "total_titles_processed": 976,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
-        {
-          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
-          "url": "https://wallstreetcn.com/articles/3762474",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 12时50分]"
-        },
         {
           "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
           "url": "https://wallstreetcn.com/articles/3762449",
@@ -31,6 +18,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时25分 ~ 07时20分]"
+        },
+        {
+          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
+          "url": "https://wallstreetcn.com/articles/3762474",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 13时27分]"
         },
         {
           "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
