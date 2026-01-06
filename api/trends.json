@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T12:40:37.693901+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2026-01-06T13:25:47.169085+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 12时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 13时25分]"
         },
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 12时40分]"
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 13时25分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -50,11 +50,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 12时40分]"
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 13时25分]"
         },
         {
           "title": "（美股）费城金银指数收涨3.29%，报353.86点，美股盘初持续、平滑地上涨，后续逐步回吐涨幅。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.71%，报2505.23点。 （美股）原材料指数涨1.75%，报234.90点。 （美股）金属与矿业指数涨2.08%，报228.54点。",
