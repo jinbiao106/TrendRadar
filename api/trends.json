@@ -1,51 +1,11 @@
 {
-  "generated_at": "2026-01-08T04:26:36.903453+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-01-08T05:21:07.339245+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能 AI ChatGPT openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
-          "url": "https://wallstreetcn.com/articles/3762706",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时26分]"
-        },
-        {
-          "title": "公司高管称，Arm(ARM.O)重组公司并成立物理人工智能部门，以扩大机器人芯片技术布局。",
-          "url": "https://flash.jin10.com/detail/20260108033311290800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "卡特彼勒(CAT.N)携手英伟达(NVDA.O)，以物理AI和机器人技术彻底变革重工业。",
-          "url": "https://flash.jin10.com/detail/20260108010523511800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
@@ -59,6 +19,28 @@
           "time_info": "[00时31分 ~ 04时26分]"
         },
         {
+          "title": "美股指涨跌互现，英特尔涨超11%，欧美债价格上行，金银跌幅扩大，油价承压",
+          "url": "https://wallstreetcn.com/articles/3762734",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 05时21分]"
+        },
+        {
+          "title": "10年期美债收益率跌约4个基点",
+          "url": "https://wallstreetcn.com/livenews/3032682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
           "title": "美国10年期国债收益率短线从4.1338%反弹至接近4.16%的水平，美国ISM非制造业数据和职位空缺数据发布后，日内整体跌幅收窄至不足2个基点。 两年期美债收益率刷新日高至3.4674%，数据发布前一分钟显著下挫至3.4427%刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3032569",
           "source": "华尔街见闻-快讯",
@@ -68,6 +50,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
+          "url": "https://wallstreetcn.com/articles/3762706",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时21分]"
+        },
+        {
+          "title": "公司高管称，Arm(ARM.O)重组公司并成立物理人工智能部门，以扩大机器人芯片技术布局。",
+          "url": "https://flash.jin10.com/detail/20260108033311290800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时21分]"
+        },
+        {
+          "title": "卡特彼勒(CAT.N)携手英伟达(NVDA.O)，以物理AI和机器人技术彻底变革重工业。",
+          "url": "https://flash.jin10.com/detail/20260108010523511800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
         }
       ]
     },
@@ -100,25 +123,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
-          "url": "https://flash.jin10.com/detail/20260108033431215800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.98%，刷新期内低点至4056.70点。 MarketVectorTM数字资产100中盘指数跌2.54%，报3826.43点。 MarketVector数字资产100指数跌1.86%，报19003.78点。 目前，比特币跌1.45%，报91163.91美元；以太坊跌2.66%，报3156.10美元。 Solana跌2.34%，狗狗币涨0.21%，XRP跌2.60%。",
@@ -130,6 +136,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "美元指数涨0.1%",
+          "url": "https://wallstreetcn.com/livenews/3032675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
+          "url": "https://flash.jin10.com/detail/20260108033431215800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时21分]"
         }
       ]
     }
