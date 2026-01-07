@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T03:21:17.563216+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-01-08T04:26:36.903453+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
@@ -16,8 +16,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时26分]"
+        },
+        {
+          "title": "公司高管称，Arm(ARM.O)重组公司并成立物理人工智能部门，以扩大机器人芯片技术布局。",
+          "url": "https://flash.jin10.com/detail/20260108033311290800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "卡特彼勒(CAT.N)携手英伟达(NVDA.O)，以物理AI和机器人技术彻底变革重工业。",
@@ -44,8 +55,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时26分]"
         },
         {
           "title": "美国10年期国债收益率短线从4.1338%反弹至接近4.16%的水平，美国ISM非制造业数据和职位空缺数据发布后，日内整体跌幅收窄至不足2个基点。 两年期美债收益率刷新日高至3.4674%，数据发布前一分钟显著下挫至3.4427%刷新日低。",
@@ -85,6 +96,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
+          "url": "https://flash.jin10.com/detail/20260108033431215800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         }
       ]
     },
