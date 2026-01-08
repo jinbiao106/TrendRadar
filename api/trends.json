@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T09:45:49.552738+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2026-01-08T11:40:10.323202+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -13,11 +13,23 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时21分 ~ 11时40分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 贵金属、存储概念盘前承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2251045",
+          "source": "财联社热门",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时21分 ~ 09时45分]"
+          "time_info": "[11时39分 ~ 11时40分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.97%，报366.95点，美国ISM非制造业指数与职位空缺数据发布后，刷新日低至352.65点，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.80%，报2585.17点。 （美股）原材料指数跌1.67%，报237.22点，整体呈现出长尾L形走势。 （美股）金属与矿业指数跌0.97%，报230.56点。",
@@ -30,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时21分]"
+        },
+        {
+          "title": "美股再现“马斯克式”天价薪酬包 游戏驿站抛出百亿美元CEO激励计划",
+          "url": "https://www.cls.cn/detail/2251127",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 11时40分]"
         },
         {
           "title": "金十图示：2026年01月07日（周三）美股热门股票行情一览（美股收盘）",
@@ -126,6 +149,17 @@
           "time_info": "[00时31分 ~ 04时26分]"
         },
         {
+          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
+          "url": "https://wallstreetcn.com/articles/3762734",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 11时40分]"
+        },
+        {
           "title": "美股指涨跌互现，英特尔涨超11%，欧美债价格上行，金银跌幅扩大，油价承压",
           "url": "https://wallstreetcn.com/articles/3762734",
           "source": "华尔街见闻",
@@ -136,17 +170,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时20分 ~ 06时21分]"
-        },
-        {
-          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
-          "url": "https://wallstreetcn.com/articles/3762734",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -249,8 +272,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 09时45分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 11时40分]"
         },
         {
           "title": "公司高管称，Arm(ARM.O)重组公司并成立物理人工智能部门，以扩大机器人芯片技术布局。",
