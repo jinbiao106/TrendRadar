@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T15:25:18.458497+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-01-08T16:32:13.282308+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
@@ -157,8 +157,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 15时25分]"
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 16时32分]"
         },
         {
           "title": "时隔七年 谷歌市值重新超越苹果",
@@ -233,8 +233,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时45分 ~ 15时25分]"
+          "appearance_count": 10,
+          "time_info": "[09时45分 ~ 16时32分]"
         },
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
@@ -330,7 +330,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
