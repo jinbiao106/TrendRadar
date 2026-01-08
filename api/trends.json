@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T11:40:10.323202+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-01-08T12:40:40.004239+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 11时40分]"
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 12时40分]"
         },
         {
           "title": "美股三大期指涨跌不一 贵金属、存储概念盘前承压 | 今夜看点",
@@ -156,8 +157,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 11时40分]"
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 12时40分]"
         },
         {
           "title": "美股指涨跌互现，英特尔涨超11%，欧美债价格上行，金银跌幅扩大，油价承压",
