@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T02:29:53.294692+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-01-09T03:21:02.772963+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时21分]"
         },
         {
           "title": "金十图示：2026年01月08日（周四）美股热门股票行情一览（美股盘中）",
@@ -26,7 +26,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
         },
@@ -37,7 +37,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
         }
@@ -56,8 +56,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时21分]"
         },
         {
           "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
@@ -68,8 +68,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时21分]"
         }
       ]
     },
@@ -85,8 +85,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[01时27分 ~ 03时21分]"
         }
       ]
     }
