@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T12:41:11.248923+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2026-01-09T13:26:36.977971+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 12时41分]"
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 13时26分]"
         },
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 12时41分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 13时26分]"
         },
         {
           "title": "临近周五，美股轮动加剧，科技巨头回落、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -216,11 +216,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 12时41分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 13时26分]"
         },
         {
           "title": "黄金成全球最大储备资产，30年来首次超越美债！",
@@ -230,8 +231,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 13时26分]"
         },
         {
           "title": "10年期美债收益率涨超3个基点",
