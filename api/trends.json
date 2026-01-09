@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T16:32:02.938887+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2026-01-09T17:28:58.654768+08:00",
+  "total_titles_processed": 1584,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时46分 ~ 16时32分]"
+          "appearance_count": 10,
+          "time_info": "[09时46分 ~ 17时28分]"
         },
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -220,19 +220,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时46分 ~ 16时32分]"
+          "appearance_count": 10,
+          "time_info": "[09时46分 ~ 17时28分]"
         },
         {
           "title": "黄金成全球最大储备资产，30年来首次超越美债！",
           "url": "https://wallstreetcn.com/articles/3762855",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时40分 ~ 16时32分]"
+          "appearance_count": 8,
+          "time_info": "[12时40分 ~ 17时28分]"
         },
         {
           "title": "10年期美债收益率涨超3个基点",
