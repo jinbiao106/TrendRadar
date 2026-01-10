@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-10T14:32:04.325305+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2026-01-10T15:20:20.550497+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 6,
       "titles": [
+        {
+          "title": "美股收盘：道指、标普均创历史新高 非农并未动摇美联储年内降息预期",
+          "url": "https://www.cls.cn/detail/2253716",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时42分 ~ 15时20分]"
+        },
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
           "url": "https://wallstreetcn.com/articles/3762848",
@@ -34,19 +47,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 06时21分]"
-        },
-        {
-          "title": "美股收盘：道指、标普均创历史新高 非农并未动摇美联储年内降息预期",
-          "url": "https://www.cls.cn/detail/2253716",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时42分 ~ 14时32分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.97%，报374.53点，本周累计上涨9.32%，整体震荡上行。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.38%，报2619.57点，美股盘初显著拉升，本周累涨7.39%。 （美股）原材料指数涨2.38%，报245.15点，本周累涨6.19%。 （美股）金属与矿业指数涨1.34%，报231.57点，本周累涨3.44%。",
@@ -97,8 +97,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时42分 ~ 14时32分]"
+          "appearance_count": 9,
+          "time_info": "[09时42分 ~ 15时20分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
@@ -231,11 +231,12 @@
           "ranks": [
             4,
             8,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 15时20分]"
         }
       ]
     }
