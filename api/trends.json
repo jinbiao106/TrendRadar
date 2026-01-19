@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-01-18T10:02:13.652690+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-19T10:01:10.154392+08:00",
+  "total_titles_processed": 297,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jinbiao106/TrendRadar.git/img/news.jpg"
 }
