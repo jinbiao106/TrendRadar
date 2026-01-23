@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-01-22T09:58:42.364632+08:00",
-  "total_titles_processed": 301,
+  "generated_at": "2026-01-23T09:54:55.383789+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 2,
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
-          "url": "https://www.cls.cn/detail/2265761",
-          "source": "财联社热门",
+          "title": "开年已涨超11%！高盛：上调黄金年末价格预期至5400美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
-          "url": "https://wallstreetcn.com/articles/3763863",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "09时54分"
         }
       ]
     },
@@ -36,15 +25,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
+          "title": "丹麦养老基金清仓 1 亿美元美债，瑞典养老基金抛售超 80 亿美元美债，释放什么信号？这些资金会流向哪儿？",
+          "url": "https://www.zhihu.com/question/1997708138242135327",
+          "source": "知乎",
           "ranks": [
-            1
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "09时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：地缘扰动退潮 三大指数集体收涨 阿里涨5%",
+          "url": "https://www.cls.cn/detail/2267129",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
         }
       ]
     }
