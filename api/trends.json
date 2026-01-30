@@ -1,29 +1,57 @@
 {
-  "generated_at": "2026-01-29T10:11:36.091008+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-01-30T10:11:55.501910+08:00",
+  "total_titles_processed": 299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
-          "url": "https://www.cls.cn/detail/2273407",
-          "source": "财联社热门",
+          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
         {
-          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2273158",
+          "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
+          "url": "https://www.cls.cn/detail/2274922",
           "source": "财联社热门",
           "ranks": [
-            11
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2274635",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌DeepMind登Nature封面",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
