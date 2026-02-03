@@ -1,39 +1,55 @@
 {
-  "generated_at": "2026-02-02T10:27:45.880129+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-02-03T10:26:04.057536+08:00",
+  "total_titles_processed": 299,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "keyword_group": "美股",
+      "match_count": 4,
       "titles": [
         {
-          "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
-          "url": "https://wallstreetcn.com/articles/3764656",
+          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3764730",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        },
         {
-          "title": "金银深V遭沪盘打压，现货黄金跌破4600美元关口、沪银跌17%、沪金跌超10%，美股期货、原油走低",
-          "url": "https://wallstreetcn.com/articles/3764699",
-          "source": "华尔街见闻",
+          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
+          "url": "https://www.cls.cn/detail/2278378",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
+          "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
+          "url": "https://www.cls.cn/detail/2278170",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
+          "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2278222",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
         }
       ]
     }
