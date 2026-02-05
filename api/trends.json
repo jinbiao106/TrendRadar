@@ -1,73 +1,29 @@
 {
-  "generated_at": "2026-02-04T10:13:20.966201+08:00",
-  "total_titles_processed": 303,
+  "generated_at": "2026-02-05T10:13:55.727060+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 6,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
       "titles": [
         {
-          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
-          "url": "https://wallstreetcn.com/articles/3764793",
+          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764994",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
         {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
-          "url": "https://www.cls.cn/detail/2279710",
+          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
+          "url": "https://www.cls.cn/detail/2281032",
           "source": "财联社热门",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
-          "url": "https://www.cls.cn/detail/2279689",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2279540",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "美股爆发AI恐慌性抛售",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%88%86%E5%8F%91AI%E6%81%90%E6%85%8C%E6%80%A7%E6%8A%9B%E5%94%AE",
-          "source": "百度热搜",
-          "ranks": [
-            18
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -76,15 +32,26 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "keyword_group": "美股",
+      "match_count": 2,
       "titles": [
         {
-          "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
-          "url": "https://wallstreetcn.com/articles/3764858",
-          "source": "华尔街见闻",
+          "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
+          "url": "https://www.cls.cn/detail/2280969",
+          "source": "财联社热门",
           "ranks": [
-            8
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2280791",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
