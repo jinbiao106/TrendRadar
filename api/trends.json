@@ -1,50 +1,88 @@
 {
-  "generated_at": "2026-02-12T10:29:21.710227+08:00",
-  "total_titles_processed": 297,
+  "generated_at": "2026-02-13T10:31:13.361654+08:00",
+  "total_titles_processed": 299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 7,
       "titles": [
         {
-          "title": "美股收盘：非农提振昙花一现 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2287796",
+          "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
+          "url": "https://www.cls.cn/detail/2289071",
           "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
+          "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2289051",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
+          "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
+          "url": "https://wallstreetcn.com/articles/3765629",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
-          "title": "开盘即巅峰！华尔街热议：强劲非农下美股缘何虎头蛇尾？",
-          "url": "https://www.cls.cn/detail/2287918",
+          "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
+          "url": "https://www.cls.cn/detail/2289007",
           "source": "财联社热门",
           "ranks": [
-            13
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI ChatGPT openai",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
         {
-          "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
-          "source": "澎湃新闻",
+          "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2288812",
+          "source": "财联社热门",
           "ranks": [
-            17
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
+          "title": "美股跳水 黄金白银大跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%B7%B3%E6%B0%B4+%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         }
       ]
     },
@@ -53,15 +91,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌的母公司 Alphabet 拟发行百年期债券，科技圈 30 年来首次，如何解读？",
-          "url": "https://www.zhihu.com/question/2004856222604551649",
-          "source": "知乎",
+          "title": "阿里、谷歌接连“出手” AI购物元年将至？",
+          "url": "https://www.cls.cn/detail/2288802",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         }
       ]
     },
@@ -70,15 +108,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3765486",
+          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
+          "url": "https://wallstreetcn.com/articles/3765553",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         }
       ]
     }
