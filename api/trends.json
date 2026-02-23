@@ -1,50 +1,11 @@
 {
-  "generated_at": "2026-02-22T10:26:41.399503+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-02-23T10:27:27.607715+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
-          "url": "https://wallstreetcn.com/articles/3765938",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
-          "url": "https://wallstreetcn.com/articles/3765927",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "实测Gemini 3.1 Pro",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -55,35 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2291935",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
-          "url": "https://wallstreetcn.com/articles/3765925",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时27分"
         }
       ]
     }
