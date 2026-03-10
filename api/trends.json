@@ -1,22 +1,33 @@
 {
-  "generated_at": "2026-03-09T10:25:25.251233+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-03-10T10:10:37.495479+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美元",
-      "match_count": 1,
+      "keyword_group": "美股",
+      "match_count": 2,
       "titles": [
         {
-          "title": "印尼基准指数下跌3.9%，股市即将进入熊市。 印尼盾兑美元跌至历史新低。",
-          "url": "https://wallstreetcn.com/livenews/3066104",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2307796",
+          "source": "财联社热门",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时25分"
+          "time_info": "10时10分"
+        },
+        {
+          "title": "美股三大指数集体收涨",
+          "url": "https://www.toutiao.com/trending/7615396444580646454/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         }
       ]
     }
