@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T10:11:36.260034+08:00",
+  "generated_at": "2026-03-15T10:37:40.217636+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -8,26 +8,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
-          "url": "https://wallstreetcn.com/articles/3767492",
+          "title": "美股“异相”：ETF成交量飙升",
+          "url": "https://wallstreetcn.com/articles/3767510",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "10时37分"
         },
         {
           "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
           "url": "https://www.cls.cn/detail/2312848",
           "source": "财联社热门",
           "ranks": [
-            3
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "10时37分"
         }
       ]
     }
