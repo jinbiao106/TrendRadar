@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-03-15T10:37:40.217636+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-16T10:38:18.496310+08:00",
+  "total_titles_processed": 303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "美股“异相”：ETF成交量飙升",
-          "url": "https://wallstreetcn.com/articles/3767510",
+          "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
+          "url": "https://wallstreetcn.com/articles/3767545",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
-          "url": "https://www.cls.cn/detail/2312848",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
+          "time_info": "10时38分"
         }
       ]
     }
