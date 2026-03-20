@@ -1,33 +1,84 @@
 {
-  "generated_at": "2026-03-19T10:29:34.605922+08:00",
+  "generated_at": "2026-03-20T10:22:38.191258+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
+      "keyword_group": "人工智能 AI ChatGPT openai",
       "match_count": 2,
       "titles": [
         {
-          "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
-          "url": "https://www.cls.cn/detail/2317455",
+          "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "刘慈欣提出「技术能生成一切，却不能辨认伟大」，有道理吗？这对当下理解 AI 与人的关系有何启示？",
+          "url": "https://www.zhihu.com/question/2017606912024207686",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股三大指数开盘涨跌不一，创业板指高开1.6%",
+          "url": "https://wallstreetcn.com/livenews/3073677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
+          "url": "https://wallstreetcn.com/articles/3767876",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
+          "url": "https://www.cls.cn/detail/2318884",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "美股三大指数全线下挫",
-          "url": "https://www.toutiao.com/trending/7618166160891199529/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "10时22分"
         }
       ]
     }
