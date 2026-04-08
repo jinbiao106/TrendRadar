@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T10:36:56.696268+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-08T10:37:57.832342+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
@@ -8,37 +8,37 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
-          "url": "https://wallstreetcn.com/articles/3769329",
+          "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
+          "url": "https://wallstreetcn.com/articles/3769370",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时36分"
+          "time_info": "10时37分"
         },
         {
-          "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
-          "url": "https://wallstreetcn.com/articles/3769300",
-          "source": "华尔街见闻",
+          "title": "美股收盘：巴基斯坦斡旋提议救场 标普纳指惊险收获五连涨",
+          "url": "https://www.cls.cn/detail/2337193",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时36分"
+          "time_info": "10时37分"
         },
         {
-          "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
-          "url": "https://www.cls.cn/detail/2335967",
+          "title": "美伊接受巴基斯坦停火提议 美股期货贵金属暴涨、油价重挫 | 环球市场",
+          "url": "https://www.cls.cn/detail/2337241",
           "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时36分"
+          "time_info": "10时37分"
         }
       ]
     }
