@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T10:29:19.731224+08:00",
+  "generated_at": "2026-04-12T10:48:02.579316+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -12,22 +12,22 @@
           "url": "https://www.cls.cn/detail/2341126",
           "source": "财联社热门",
           "ranks": [
-            3
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 10时48分]"
         },
         {
-          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260411041025716800",
-          "source": "金十数据",
+          "title": "李大霄解读美股单周表现",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
           "ranks": [
-            30
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 10时48分]"
         }
       ]
     }
