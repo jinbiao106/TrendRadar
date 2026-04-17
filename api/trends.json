@@ -1,56 +1,100 @@
 {
-  "generated_at": "2026-04-16T10:50:52.297403+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-17T10:46:00.675183+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌最新SpaceX持股比例出炉 投资盈利有望达100000000000美元",
-          "url": "https://www.cls.cn/detail/2345498",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美联储亮鹰，每月美债购买量大减近 40%，月规模降至 250 亿美元，此举远超市场预期，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027378015303157221",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
+          "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
+          "url": "https://www.cls.cn/detail/2346842",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
+          "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
+          "url": "https://wallstreetcn.com/articles/3770123",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
+          "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2346625",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
+          "title": "这轮美股新高，散户集体踏空！大多头Tom Lee：下一波上涨将由他们主导",
+          "url": "https://wallstreetcn.com/articles/3770147",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证",
       "match_count": 1,
       "titles": [
         {
-          "title": "美股收盘：标普历史首次征服7000点 算力巨头携手冲高",
-          "url": "https://www.cls.cn/detail/2345486",
-          "source": "财联社热门",
+          "title": "A股开盘：三大指数涨跌不一",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E6%B6%A8%E8%B7%8C%E4%B8%8D%E4%B8%80",
+          "source": "百度热搜",
           "ranks": [
-            3
+            21
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "StoneX分析师：美元指数可能出现小幅上涨",
+          "url": "https://flash.jin10.com/detail/20260417101704485800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "10时46分"
         }
       ]
     }
