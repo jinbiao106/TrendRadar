@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-04-18T10:36:32.173309+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-19T10:53:07.714159+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
           "url": "https://www.cls.cn/detail/2348129",
           "source": "财联社热门",
           "ranks": [
-            5
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
-          "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2347815",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 10时53分]"
         }
       ]
     }
