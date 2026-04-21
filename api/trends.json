@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T10:53:54.428136+08:00",
+  "generated_at": "2026-04-21T10:47:05.635336+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -8,26 +8,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
-          "url": "https://wallstreetcn.com/articles/3770345",
+          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3770361",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 10时47分]"
         },
         {
-          "title": "创纪录美股背后的虚假地基：两大\"一次性\"因素能撑多久？",
-          "url": "https://wallstreetcn.com/articles/3770342",
-          "source": "华尔街见闻",
+          "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
+          "url": "https://www.cls.cn/detail/2350040",
+          "source": "财联社热门",
           "ranks": [
-            6
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 10时47分]"
         }
       ]
     }
