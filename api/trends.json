@@ -1,33 +1,61 @@
 {
-  "generated_at": "2026-04-21T10:47:05.635336+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-22T10:45:07.871893+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3770361",
+          "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3770463",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时46分 ~ 10时47分]"
+          "time_info": "[10时44分 ~ 10时45分]"
         },
         {
-          "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
-          "url": "https://www.cls.cn/detail/2350040",
+          "title": "美股收盘：三大指数尾盘跳水集体收跌 中东战火阴影盖过财报利好",
+          "url": "https://www.cls.cn/detail/2351396",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时46分 ~ 10时47分]"
+          "time_info": "[10时44分 ~ 10时45分]"
+        },
+        {
+          "title": "SpaceX压境前夜：美股IPO市场上演“疯狂冲刺”",
+          "url": "https://www.cls.cn/detail/2351256",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
+          "url": "https://www.cls.cn/detail/2351466",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
         }
       ]
     }
