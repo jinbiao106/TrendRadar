@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-04-27T10:57:46.639813+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-28T11:26:52.691433+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【早报】美股科技巨头冷暖不均，英伟达、英特尔齐创新高；一批A股公司一季度净利增超10倍",
+          "url": "https://www.cls.cn/detail/2357431",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "美股收盘：“双英”+三大内存股收创纪录 标普纳指再刷新高",
+          "url": "https://www.cls.cn/detail/2357399",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "美股三大存储股齐刷新高！分析师：存储强劲需求料持续至2030年",
+          "url": "https://www.cls.cn/detail/2357471",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/jinbiao106/TrendRadar.git/img/news.jpg"
 }
