@@ -1,22 +1,33 @@
 {
-  "generated_at": "2026-04-29T11:24:57.793783+08:00",
+  "generated_at": "2026-04-30T11:26:38.408486+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能 AI ChatGPT openai",
-      "match_count": 1,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
       "titles": [
         {
-          "title": "工业和信息化部批准《人工智能 深度合成图像系统技术规范》等690项行业标准",
-          "url": "https://flash.jin10.com/detail/20260429112129147800",
-          "source": "金十数据",
+          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
+          "url": "https://wallstreetcn.com/articles/3771319",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时26分"
+        },
+        {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         }
       ]
     },
@@ -25,15 +36,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
+          "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
+          "url": "https://wallstreetcn.com/articles/3771214",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时26分"
         }
       ]
     },
@@ -42,15 +53,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2358855",
+          "title": "美股收盘：存储、光通信概念走强 纳指微涨道指连跌五天",
+          "url": "https://www.cls.cn/detail/2360291",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY站上99，日内涨0.06%。",
+          "url": "https://flash.jin10.com/detail/20260430104434830800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         }
       ]
     }
