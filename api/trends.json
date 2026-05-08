@@ -1,61 +1,33 @@
 {
-  "generated_at": "2026-05-07T11:24:37.337277+08:00",
+  "generated_at": "2026-05-08T11:21:42.592275+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
-          "url": "https://wallstreetcn.com/articles/3771614",
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
+          "url": "https://wallstreetcn.com/articles/3771708",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时21分"
         },
         {
-          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
-          "url": "https://www.cls.cn/detail/2364348",
+          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
+          "url": "https://www.cls.cn/detail/2365503",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2364164",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
-          "url": "https://wallstreetcn.com/articles/3771684",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时21分"
         }
       ]
     }
