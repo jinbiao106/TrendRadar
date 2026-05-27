@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-05-26T11:43:46.741667+08:00",
+  "generated_at": "2026-05-27T12:02:17.972579+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
+          "url": "https://www.cls.cn/detail/2382303",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
+          "url": "https://www.cls.cn/detail/2382288",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/jinbiao106/TrendRadar.git/img/news.jpg"
 }
