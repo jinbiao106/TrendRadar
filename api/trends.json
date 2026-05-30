@@ -1,66 +1,33 @@
 {
-  "generated_at": "2026-05-29T11:51:10.193800+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-30T11:36:21.269098+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
-        },
-        {
-          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
-          "url": "https://www.cls.cn/detail/2384785",
+          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
+          "url": "https://www.cls.cn/detail/2385964",
           "source": "财联社热门",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
+          "appearance_count": 1,
+          "time_info": "11时36分"
         },
         {
-          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
-          "url": "https://www.cls.cn/detail/2384768",
+          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2385789",
           "source": "财联社热门",
           "ranks": [
-            3
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
-        },
-        {
-          "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2384590",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
-        },
-        {
-          "title": "美股无人机概念全线暴涨 据称行业有望获美政府资金扶持",
-          "url": "https://www.cls.cn/detail/2384732",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
+          "appearance_count": 1,
+          "time_info": "11时36分"
         }
       ]
     }
