@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T11:36:21.269098+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-05-31T12:02:30.823703+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,26 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
+          "url": "https://wallstreetcn.com/articles/3773491",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
           "url": "https://www.cls.cn/detail/2385964",
           "source": "财联社热门",
           "ranks": [
-            5
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2385789",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
+          "time_info": "12时02分"
         }
       ]
     }
