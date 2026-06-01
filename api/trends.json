@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-05-31T12:02:30.823703+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-01T12:16:27.851010+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
+      "keyword_group": "人工智能 AI ChatGPT openai",
       "match_count": 2,
       "titles": [
         {
-          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
-          "url": "https://wallstreetcn.com/articles/3773491",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
-          "url": "https://www.cls.cn/detail/2385964",
+          "title": "直击英伟达GTC 2026黄仁勋演讲：新一代AI技术突破即将来袭？",
+          "url": "https://www.cls.cn/detail/2386626",
           "source": "财联社热门",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "12时16分"
+        },
+        {
+          "title": "英特尔计划在年底前推出一款人工智能芯片，该芯片将采用比英伟达和AMD竞品更便宜的内存和散热技术。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3112133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         }
       ]
     }
