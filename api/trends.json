@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T12:13:37.190799+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-05T11:58:27.789521+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
@@ -8,65 +8,37 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
-          "url": "https://wallstreetcn.com/articles/3773742",
-          "source": "华尔街见闻",
+          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
+          "url": "https://www.cls.cn/detail/2391272",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时13分"
+          "time_info": "11时58分"
         },
         {
-          "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
-          "url": "https://www.cls.cn/detail/2390139",
+          "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
+          "url": "https://www.cls.cn/detail/2391243",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时13分"
+          "time_info": "11时58分"
         },
         {
-          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
-          "url": "https://wallstreetcn.com/articles/3773769",
+          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
+          "url": "https://wallstreetcn.com/articles/3773846",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
-          "url": "https://wallstreetcn.com/articles/3773814",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "英国监管机构给谷歌AI搜索“立新规”",
-          "url": "https://wallstreetcn.com/livenews/3114177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
+          "time_info": "11时58分"
         }
       ]
     },
@@ -75,15 +47,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "黄仁勋概念股又+1：纳微半导体暴涨创新高 凭AI电源技术切入“达链”",
-          "url": "https://www.cls.cn/detail/2390246",
-          "source": "财联社热门",
+          "title": "聚灿光电在互动平台表示，公司暂无AI相关的光互联技术储备。",
+          "url": "https://flash.jin10.com/detail/20260605114956468800",
+          "source": "金十数据",
           "ranks": [
-            3
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时13分"
+          "time_info": "11时58分"
         }
       ]
     }
