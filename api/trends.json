@@ -1,61 +1,55 @@
 {
-  "generated_at": "2026-06-16T12:22:47.180640+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-06-17T12:18:04.846395+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
-          "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
-          "url": "https://wallstreetcn.com/articles/3774633",
+          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
+          "url": "https://wallstreetcn.com/articles/3774774",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
         },
         {
-          "title": "【早报】纳指暴涨3%，美股芯片股狂飙；黄金、白银大涨；西班牙爆冷，0比0战平佛得角",
-          "url": "https://www.cls.cn/detail/2400629",
+          "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
+          "url": "https://www.cls.cn/detail/2401752",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
         },
         {
-          "title": "美股收盘：纳指暴涨近800点 马斯克日赚巴菲特全部身家",
-          "url": "https://www.cls.cn/detail/2400615",
+          "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强",
+          "url": "https://www.cls.cn/detail/2401731",
           "source": "财联社热门",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
+        },
         {
-          "title": "市场太乐观了？华尔街老将警告：油价、美债和通胀的滞后冲击才刚开始",
-          "url": "https://wallstreetcn.com/articles/3774702",
-          "source": "华尔街见闻",
+          "title": "中信证券下半年展望：预计美股下半年交易主线仍由基本面逻辑主导",
+          "url": "https://flash.jin10.com/detail/20260617112417089800",
+          "source": "金十数据",
           "ranks": [
-            4
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时22分"
+          "time_info": "12时18分"
         }
       ]
     }
