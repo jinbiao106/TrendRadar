@@ -1,44 +1,61 @@
 {
-  "generated_at": "2026-06-18T12:32:01.435277+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-06-19T12:27:56.722599+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
-          "url": "https://wallstreetcn.com/articles/3774887",
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2403938",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
+          "url": "https://wallstreetcn.com/articles/3774963",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
-          "title": "【早报】美联储转鹰；美股三大指数集体收跌；黄金、白银下跌；葡萄牙队爆冷战平",
-          "url": "https://www.cls.cn/detail/2403010",
+          "title": "美元指数升至一年多新高 美国电力监管下场推动数据中心入网 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404205",
           "source": "财联社热门",
           "ranks": [
-            2
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        },
-        {
-          "title": "美股收盘：沃什首秀吓坏市场！三大指数尾盘跳水",
-          "url": "https://www.cls.cn/detail/2403003",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
+          "appearance_count": 1,
+          "time_info": "12时27分"
         }
       ]
     },
@@ -47,15 +64,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
-          "url": "https://wallstreetcn.com/articles/3774939",
-          "source": "华尔街见闻",
+          "title": "美联储失去平衡通胀和衰退能力，美元与美债维持高位风险抬升",
+          "url": "https://flash.jin10.com/detail/20260619114259658800",
+          "source": "金十数据",
           "ranks": [
-            9
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
+          "appearance_count": 1,
+          "time_info": "12时27分"
         }
       ]
     }
