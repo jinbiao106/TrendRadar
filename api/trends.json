@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T12:27:56.722599+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-06-20T11:53:08.636444+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
@@ -12,67 +12,39 @@
           "url": "https://www.cls.cn/detail/2404196",
           "source": "财联社热门",
           "ranks": [
-            3
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 11时53分]"
         },
         {
-          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2403938",
+          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404523",
           "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 11时53分]"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
-          "url": "https://wallstreetcn.com/articles/3774963",
+          "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
+          "url": "https://wallstreetcn.com/articles/3775074",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "美元指数升至一年多新高 美国电力监管下场推动数据中心入网 | 环球市场",
-          "url": "https://www.cls.cn/detail/2404205",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美联储失去平衡通胀和衰退能力，美元与美债维持高位风险抬升",
-          "url": "https://flash.jin10.com/detail/20260619114259658800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 11时53分]"
         }
       ]
     }
