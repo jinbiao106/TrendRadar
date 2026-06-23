@@ -1,7 +1,120 @@
 {
-  "generated_at": "2026-06-22T12:26:09.827243+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-06-23T11:43:12.133038+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
+          "url": "https://www.cls.cn/detail/2406186",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
+          "url": "https://www.cls.cn/detail/2406236",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "美股科技股深夜下挫",
+          "url": "https://www.douyin.com/hot/2544157",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2405983",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "城堡证券：沃什提升了美联储公信力，或稳住长端美债利率",
+          "url": "https://flash.jin10.com/detail/20260623112954865800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
+          "url": "https://www.cls.cn/detail/2406155",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际金价“高台跳水” 金饰价格降了",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E2%80%9C%E9%AB%98%E5%8F%B0%E8%B7%B3%E6%B0%B4%E2%80%9D+%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E9%99%8D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/jinbiao106/TrendRadar.git/img/news.jpg"
 }
