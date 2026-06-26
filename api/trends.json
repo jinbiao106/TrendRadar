@@ -1,61 +1,50 @@
 {
-  "generated_at": "2026-06-25T11:43:38.710088+08:00",
+  "generated_at": "2026-06-26T11:54:21.735023+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
-          "url": "https://www.cls.cn/detail/2408547",
+          "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
+          "url": "https://www.cls.cn/detail/2409666",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "11时54分"
         },
         {
-          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
-          "url": "https://www.cls.cn/detail/2408510",
+          "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
+          "url": "https://www.cls.cn/detail/2409639",
           "source": "财联社热门",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
-          "url": "https://www.cls.cn/detail/2408279",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "11时54分"
         }
       ]
     },
     {
-      "keyword_group": "金价 黄金",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
-          "source": "澎湃新闻",
+          "title": "网传 Google 内部称 Gemini 模型竞争力下降至行业第四，具体情况如何？下降原因可能有哪些？",
+          "url": "https://www.zhihu.com/question/2052444159282082405",
+          "source": "知乎",
           "ranks": [
-            17
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "11时54分"
         }
       ]
     }
