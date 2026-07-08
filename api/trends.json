@@ -1,33 +1,61 @@
 {
-  "generated_at": "2026-07-07T11:34:25.687376+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-07-08T10:49:49.368454+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
-          "url": "https://www.cls.cn/detail/2418586",
+          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
+          "url": "https://www.cls.cn/detail/2419797",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
+          "url": "https://wallstreetcn.com/articles/3776359",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
+          "url": "https://www.cls.cn/detail/2419782",
           "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时34分"
-        },
+          "time_info": "10时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "美股期指延续涨势 纳斯达克100指数期货涨超1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2418371",
-          "source": "财联社热门",
+          "title": "瑞士私人银行Julius Baer：预计美联储不太可能加息，而美元可能走弱，因此黄金价格有望重新收复失地。",
+          "url": "https://flash.jin10.com/detail/20260708103703567800",
+          "source": "金十数据",
           "ranks": [
-            9
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时34分"
+          "time_info": "10时49分"
         }
       ]
     }
