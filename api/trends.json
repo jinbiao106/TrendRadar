@@ -1,94 +1,22 @@
 {
-  "generated_at": "2026-07-11T10:46:40.321688+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-12T10:55:03.424886+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
         {
           "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
           "url": "https://www.cls.cn/detail/2423438",
           "source": "财联社热门",
           "ranks": [
-            4
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
-          "title": "一周热榜精选：美国要求伊朗周六给承诺！SK海力士美股首日涨超12%",
-          "url": "https://flash.jin10.com/detail/20260711094525096800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
-          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
-          "url": "https://wallstreetcn.com/articles/3776651",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
-          "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
-          "url": "https://www.cls.cn/detail/2423160",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
-          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2423243",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "30年期美债拍卖海外机构需求强劲，外资大举接盘背后藏着关键信号",
-          "url": "https://flash.jin10.com/detail/20260711100226871800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
         }
       ]
     }
