@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-12T10:55:03.424886+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-13T10:55:51.528405+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
-          "url": "https://www.cls.cn/detail/2423438",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 10时55分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jinbiao106/TrendRadar.git/img/news.jpg"
 }
