@@ -1,22 +1,33 @@
 {
-  "generated_at": "2026-08-16T09:22:51.093878+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-17T09:20:16.144339+08:00",
+  "total_titles_processed": 316,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 1,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
-          "url": "https://www.cls.cn/detail/2455043",
-          "source": "财联社热门",
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/articles/3779527",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
         }
       ]
     }
